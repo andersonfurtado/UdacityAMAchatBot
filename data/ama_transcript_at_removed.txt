@@ -1,0 +1,1800 @@
+﻿
+Q. Are there any extra points for finishing the course earlier?
+A.  Fernando Rodriguez No extra points as such! But this does gives you extra time on your hands to use it :
+1. To help your peers with their technical questions and reinforce your learning this way
+2. Work on individual or group projects to apply the course learnings! :slightly_smiling_face:
+
+Q. Are there any recommendedrecommendd resources for absolute beginnersbegineers?
+A. Hi  Ihejirika! We recommend brushing on basic Python programming and basic familiarity with fundamental machine learning concepts and algorithms! See our FAQ page for more! https://sites.google.com/udacity.com/microsoftazurechallenge/overview/faqs
+
+Q. Okay, to start with, Good Morning, Evening/Afternoon everyone, any prerequisite before this course needed. 
+A.  Khandelwal The recommended prerequisites are a basic experience in Python and knowledge of the fundamentals of statistics. :slightly_smiling_face:
+
+Q. Will the pace at which I complete the course affect my selection in phase 2?
+A. Hi  Kulkarni! It has no effectaffect, take your time if you need to! As long as you finish it by the course deadline, September 10th, you’re set!
+
+Q. How will the students be ranked? On speed? 
+A. Hi  Singh Sidhu, We look at 100% course completion and community participation to  advance students onto Phase 2!
+
+Q. How would finishing the course material in less than 50 days affect the 50 day challenge?
+A. no you can do projects related to the course work for the remaining days. Just use the xtra time to expand your knowledge and/or help
+
+Q. what can i do to qualify phase 2
+A. Hi  Kumaresan! Our recording from this morning’s Orientation session is on the Google site - Here you go! https://bit.ly/microsoft-azure-challenge 
+
+Q. How actually the 50 days of Udacity challenge workworks?
+A. Hi  Kumar! Palak will have further details when it launches, but essentially, you’re pledging to study 30 minutes everyday for 50 days. You’ll have a dedicated channel for students who are participating in the challenge. You post a short daily log of what you studied that day!
+
+Q. What is the procedure to apply for Student Leaders?
+A. It will update on the site https://sites.google.com/udacity.com/microsoftazurechallenge/resources/forms-links?authuser=0
+
+Q. Hi. I wanted to ask if it's okay that I've started with the 50daychallenge from day 1 already.
+A.  Pachori You can always start challenging yourself from Day 1! :slightly_smiling_face:
+But to bind us all together we will keep the starting period of the formal challenge same for everyone!
+
+Q. Yes what is the criteria to get selected for the phase 2 ?
+A. Hi  Singh! The Orientation recording and slides are now up on the home page of the Google site! Here you are: https://bit.ly/microsoft-azure-challenge
+
+Q. Can we make a studymake study group/channel based on location? Thank you
+A. Hi  RS, you most definitely can! Palak will launch the Study Groups program soon where you can create a study group/channel based on location or interest :slightly_smiling_face:
+
+Q.  Are we required to participate on Slack even after early completion of the course?
+A.  Thomas Yup! Since consistent participation in Slack throughout the challenge course is something we are looking forward to! :slightly_smiling_face:
+
+Q. What are the guidelines in regards to being considered a "top performer"?
+A. Hi  Garcia Glad you asked! We are looking for 100% completion of the Foundations Course + someone who has made meaningful contributions to this Slack community and has been active in our community activities!
+
+Q. What is expected by you from us so that we will be accepted in the nano degree program?? 
+A. Hi  Rohilla! We definitely recommend watching the recording of our Orientation session where we outline the Phase 2 selection criteria in greater detail! https://bit.ly/microsoft-azure-challenge
+
+Q. Is it okay/permitted to create study groups on Telegram/WhatsAppwhatsapp?
+A. Hi  Khetlani! You most definitely can but it would be wisest to create a study group here so we can count it towards participation!
+
+Q. How do we keep track of the slack channels? It's so overwhelming. And the limit of 10,000 messages is how many we can send, or receive?
+A. Thanks for the assist 's Web Presence! Hi  S Sanketh - I also recommend attending our Slack Orientation next Monday to learn other tips for successfully managing this workspace! You can RSVP from our Google site here: https://bit.ly/microsoft-azure-challenge Thanks!
+
+Q. I was curious how will udacity check which member is most active in group
+A.  Kashyap Hey Kaushal!
+We will be looking into three kinds of participation:
+Participation in Scholarship Team’s InitiativesInitiatves
+Slack Contributions
+Student Initiatives!
+Have a look at the Orientation Session’s recording from yesterday to get more insights!
+
+Q. What if a student just goes online daily without any active participation? WIll that also be considered as being on Slack?
+A. Hi  Pendurkar, in order for Slack activity to count as participation, you’ll need to make a post!
+
+Q. I am in Singapore. Is there any group support APAC time zone?
+A. Hi  Kumaresan! There are students here from all across the world so there’s a high chance you’ll find someone online to help you during your time zone! For technical questions you can ask in #tech_help or in any of the Lesson channels!
+
+Q. I was in Cloud DevOps Bertelsmann challenge program and had known  brieflybreifly there (one to many form).
+Glad to have you here again Brenda. 
+A. So lovely to see you !! Congrats on being accepted to another Scholarship! :grinning_face_with_star_eyes:
+
+Q. will there be any final project/exam at the end of the course?
+A. Hi  Rakshit, there’s no required project but you’re more than welcome to team up with students to make a project of your own!
+
+Q. How are Udacity projects different from other platforms?
+A.  Garcia Hey Daniel!
+Apart from the theoretical learning, Udacity believes strongly in hands-on training wrt to Industry and therefore our programs are designed closely with Industry Experts!
+
+Q. What kind of updates are expected from students on daily basis, and starting from which date.
+A. Hi  Gore! I’m guessing you'reyour asking about the 50 Days Challenge? If so, just a very brief 1 sentence update like this: Day 1 of 50: Watched Lesson 3 video on ”   ”. Palak will explain more when the challenge is officially launched!
+
+Q. Another thing, what parallel tracks we can start learn on our own, like statistics, python, R, deep learning 
+A.  Khandelwal Your peers here are more equipped to answer with that question! Drop in a post in #general_discussion to gather more insights on this! :slightly_smiling_face:
+
+Q. For the labs, can we read the instructions/steps on a second tab? It is hard to read the steps and see the pictures on the right of the screen.
+A. Hi ! This is a great question to ask your classmates in either the #tech_help channel or the Lesson channel for the lab!
+
+Repeated Q. For the labs, can we read the instructions/steps on a second tab? It is hard to read the steps and see the pictures on the right of the screen.
+A. Hi ! This is a great question to ask your classmates in either the #tech_help channel or the Lesson channel for the lab!
+
+Q. Hi guys! when are we going to have the requested slack channels? 
+A.  Berrio  As  Bansal said you can drop in your suggestions through the form and we will start creating channels starting next week! :slightly_smiling_face:
+
+Q.       After the scholarship is finished, how long will we have access to our study materials?
+A. Hi  Ramachandra! While you’ll be unenrolled from your Foundations Course once the Challenge end date has passed, you will have the option of enrolling in the Free Course which will contain the same course materials. Hope this helps!
+
+Q.  and , I dunno, but is this the first Azure ML scholarship ever?
+A. This is the first ever Azure ML scholarship for Udacity! The quote came from Ioannis, who was in our Facebook PyTorch scholarship program!
+
+Q. Will it affect negatively if we  don't attend the live sessions ? And listen to the recordings later on.
+A. Hi  Khetlani, it’s totally optional for your to attend orientation! We know the timing doesn’t work for everyone. We’ve uploaded the slides and the recording onto the Google site if you missed it :slightly_smiling_face:
+
+Q. In 50 days challenge, if I complete Udacity course in say 20 days, what updates can we post for next 30 days? 
+A.  There is no end to knowledge and learning! You can always use this time to work on may be individual or group projects and give updates about it in the channel and you can also always use more resources say books, research papers etc. .to widen the horizon and share your learning updates in the channel! 
+
+Q. Can you briefly describe 50 days of udacity 
+A. Palak will have further details when it launches, but essentially, you’re pledging to study 30 minutes everyday for 50 days. You’ll have a dedicated channel for students who are participating in the challenge. You post a short daily log of what you studied that day!
+
+Q. Is there any capstone project in this course?
+A. Hi  Kumar, there’s no capstone or required project but you’re more than welcome to collaborate with your peers to build something if that’s what you wanna do! :slightly_smiling_face:
+
+Q. Is there a more seamless way to access the Azure Labs than through the remote desktop interview defaulted in the Udacity lessons?  It's a bit clunky and I had a session close of me while training.
+A. Hi  Miller! This sounds like a great question to ask your classmates in the #tech_help channel!
+
+Q.  How do you suggest one should approach forming groups? An ways which worked well in the previous courses conducted by Udacity.
+A. Hi  Jain! Palak will share more details once Study Groups has launched, but my suggestion is that if you’d like to start a study group definitely  do so! Once the program is launched, you’ll be able to register your group through the official Study Group form (not the Slack channel request form) :wink: and your group will automatically appear on the Study Groups page for others to join!
+
+Q. Hey    just want to say a big thanks for all these interesting activities that you guys are organising. Really makes the whole experience enjoyable. Kudos to your hard work!!!
+A.  Kumaresan Thank you for your thoughtful words! Means a lot to hear it from our students 
+A 2. Thank you so much  Kumaresan!You are too kind! 
+
+Q. While we will be receiving technical advice from peers, to ensure that we are receiving the correct advice are their technical mentors as well who keep a watch on the replies? 
+A.  Don’t worry! Your peers in the community will be on a lookout and let you know if someone else is unable to deliever the correct answer to you!
+That said, no there are no technical mentors as such but yes we will soon be having the Technical Leaders  who will help with this! :slightly_smiling_face:
+
+Q. How does the 50 days Udacity challenge works ? 
+A. Thanks for the assist, everyone!! :pray: I promise the nitty-gritty details will be shared when Palak launches the program next week!
+
+Q. How does the selection for phase two depends on slack channel engagement, as we all can see all the groups are getting spammed here instead of using them for information sharing ??
+A.  Kumar Jha
+Hey Abhishek!
+These are the very first days of the program and therefore this! Don’t worry soon enough, all your peers will get settled in the community and then you will be able to follow the discussions effectively! :slightly_smiling_face:
+
+Q. Should we be active on all channels/being active on single channel counts to selection
+A.  Like everyone said, try to focus on a couple of channels! It’s impossible to keep track of every channel, just be active in ones that are interesting to you :slightly_smiling_face:
+
+Q. Is this compulsory to spend time on the course everyday? Or that doesn't matter. Important is to complete the course before the deadline and active on slack channels! 
+A. Hi  shah, it’s not a requirement, we understand everyone has bigger priorities! However, we do want you to be consistent with your community participation! For example, if you can only squeeze in 30 minutes every other day, that’s totally fine as long as you keep that cadence throughout the whole scholarship
+
+Q. use of libraries like fastai is allowed??
+A.  Rakshit Really not equipped to answer that! Consider asking in #tech_help and some of our previous students would help you with it ! :slightly_smiling_face:
+
+Q. Hi Udacity team, My question is: it seems that slack participation is highly graded towards the scholarship. Today  I found myself spending more time in slack than studying because I was looking for places on where to participate, do you believe this might be counterproductive in a path to master Machine Learning?
+A. Hi ! Slack can be addicting so definitely manage your time wisely and set specific time to devote to your coursework as 100% completion is one of the selection criteria you must meet! As for it being counterproductive, you’ll find that this community will actually aid & enhance your learnings when you apply your knowledge by helping others! Hope this helps!
+
+Q.  Hi, is there any restrictions on posting our experience of this program on any social media platform?
+A. Hey  No restrictions on sharing your experiences. But sharing the course content isn’t allowed :)
+
+Q. How many are selected for phase 1 of this scholarship?
+A. 10000
+
+Q. I am in #ama_sessions but nobody is out there
+A. AMAs happen in this channel and we’re all here! Were you some place else, by chance?
+
+Q. What will be the process of taking a session, meaning say I feel some topic is very relevant to understand to move further, how do I help me peers in that topic? Should it be a study group or something else?
+A.   Singh Along with what your peers mentioned, you can also conduct an AMA Session or a webinar say!
+You can reach out to me for the same! :slightly_smiling_face:
+
+Q. Also if we launch a project and get stuck / need guidance do we have to depend on the peer group only or can we seek help from the Udacity team as well? 
+A.  You will have to rely on the peer group but you will soon find out that it’s the best case! 
+
+Q. Is there any kind of project that we have to complete to be eligible for the phase 2?
+A. Hi  Saraswat! What your classmates said is correct! There is no project in Phase 1 that you’ll need to complete to be eligible for Phase 2. Just make sure to complete all of your Foundations Course!
+
+Q. Is the grading of the course only dependent on completion or are our performances also tracked?
+A.  Guhathakurta No grading as such! Only course completion and community participation! :slightly_smiling_face:
+
+Q. Why this course does not contain any projects?? 
+A. projects and submissions are part of the nano degree as specified in the orientation
+
+Q. Do we need to spend time on course everyday? What if due to some reason I miss it someday?
+A. Hi  UMRE! We understand not everyone can commit to the course everyday! Like  Alsubait said just try to squeeze in a little bit of studying consistently 
+
+Q.    In addition to completing the course on time and community participation on Slack, do we have to pass a test or complete a project to be considered for Phase 2? Are the published requirements to be considered for Phase 2 the final list?
+A. Hi  Thomas! Great question! There is no such test to take or project to complete for this Scholarship Challenge. We are just looking for 100% completion of the course material + community participation. Hope that helps!
+
+Q. Hi , , 
+I just wanted to know if all the community events that happenen will be time zone friendly :)
+A.  Trivedi Absolutely! 
+
+Q. Can we create study group formation challenge till all the study groups have been formed? 
+A. Hi  Pendurkar! You can totally form study groups now, but you’ll only be able to request channels dedicated to your study group when the program is launched!
+You can start forming your group now and sign up for a channel with all your members when the time comes :slightly_smiling_face:
+
+Q. What will be the way forward for people who are not selected among 300 scholars ?
+A.  Nandyala As your peers mentioned, you can always enrol in the Nanodegrees! 
+
+Q. Participation in Slack seems very vague as a criteria for selections. Could the criteria be laid out in a more concise manner, if that is acceptable?
+A.  Kumar Venkitaraman Refer to the Orientation Slides and it will help you with this!
+
+Q. How about we take a particular time of the day (for community participation) instead of being active all the time? Will it have a negative impact?
+A. Hi ! As we mentioned during Orientation today, we are looking for meaningful contributions - quality over quantity!! :sparkling_heart:
+
+Q. What is the criteria for selection to part 2?
+A. Hi  Belmokhtar! The recording from today’s Orientation is up on the Google site now if you’d like to watch! https://bit.ly/microsoft-azure-challenge :sparkling_heart:
+
+Q. If i miss some AMA sessions due to timezone as it is 5 am here, will it affect mz chances of getting selected ?
+A. Hi  Dike! These AMA sessions are optional and are here to clarify any doubts you may have about the program or community initiatives. These sessions will always be transcribed so if you miss a session, you can catch up later!
+
+Q. The selection criteria regarding community participation is not clear. How does it make the effective choice for selection?
+A. Thanks for the assist !
+Hi  Medini and ! Sorry if it doesn’t appear clear :disappointed: By chance have you watched the recording from Orientation? We’ve outlined the 3 buckets that count toward Community participation https://bit.ly/microsoft-azure-challenge
+
+Q. There are so many questions being posted each day , how is one supposed to keep up with all the messages posted on slack ?  
+A. Great answers, everyone! Hi  Choudhury! It is impossible to keep up with all the messages and we certainly don’t expect that you will! Definitely follow the advice of your classmates in only following a few channels - the ones that interest you the most! And keep you eye on the #announcements channel for important updates from  as well! Do your best - that’s all we ask!
+
+Q. Is there some time or resource limit for the labs, it is possible to consume all the resources available in azure?
+A.  Rivera To be honest, I am not completely sure of this and I will get back to you on this!
+
+Q. #ama_sessions
+Please according to lesson 2, talking about traditional programming and machine learning.
+How do we identity data, answers and rules?
+A. Hi  OREJAH! The #l2_intro_machine_learning channel specifically for Lesson 2 questions is a great place as well! :sparkling_heart:
+
+Q. There are different level of expertise of participants here. I feel the ones with a higher level have a better chance of succeeding into the next phase as I see them participating here a lot more frequently and with better resources. How would that impact the rest of us?
+A. Hi  Akhtar! You’ll find all levels of experience and that’s what makes this community so vibrant and helpful! :sparkling_heart: That said, one can be as equal as a contributor with much less experience just by participating in our Community programs like 50 Days, Study Jam, Visual Challenge and Student Story Challenge!
+
+Q. Hi,    hope you all are doing well! I was a part of the Intel Edge AI Scholarship challenge. Good to see you all again. Will there be an expert session to be arranged with Microsoft Engineers to help us know more about the Azure ML platform.
+A.  Mhatre We are trying to have a session arranged! You will get to know if all goes well! :slightly_smiling_face:
+
+Q. So as not to miss anything important here due to huge number of messages and slack limit, will any information passed here e available also on the google site?
+A.  Dike Yup! And actually all the information you need is already available on the Google Site and it will be updated regularly so you can always rely on it! :slightly_smiling_face:
+
+Q. What is study jam?
+A. Hi  Gandhi! Your peers have answered it perfectly, some portions may be video webinars and some will take place in Slack! You’ll have more info about it when it’s launched :slightly_smiling_face: Check out the calendar of events here: https://sites.google.com/udacity.com/microsoftazurechallenge/calendar
+
+Q. Will the phase II be offered as a paid ND program as well?
+A.  Kumar Apart from the 300 Students, the scholarship program won’t be open for other students but they can always join Udacity as a student in general.
+
+Q. How to access the lab??
+A.  Sharma ^^^^
+Once you reach the lessons where a Lab Exercise is situated, you will get to the page through which you can access Labs :slightly_smiling_face:
+
+Q. Could you share the course curriculum details of this Nano degree program? And who benefits from this ?
+A. Hi ! The Nanodegree is still being built out, so we don’t have information to share yet. Once the syllabus is made available, we’ll share it with the community :slightly_smiling_face:
+
+Q. Many people have taken notes of the lessons and posted it on public github accounts. Is this alright?
+A. Hi  Sankaranarayanan! Great question! Sharing notes publicly is fine - we are just asking not to post the exact content as the course has not yet been released. Thanks!
+
+Q. Is the scholarship sponsor by Microsoft?
+A.  Yes, this scholarship is in partnership with Microsoft 
+
+Q.  If I don't attend the AMA sessions, will it cause problems to my slack performance?
+A.  Chhabra If you aren’t able to attend an AMA Session, that’s ohk! There are various other ways through which you can contribute to the community ! But if it suits you, do attend some of the sessions to get the answer to your questions and meanwhile help in answering questions from your peers! :slightly_smiling_face:
+
+Q. Some of us dont have that much of knowledge about the azure or ML ..we wont be able to answer the lot of questions..then how are we supposed to contribute?
+A. Hi  Bhosale, there are tons of non-technical ways you can get involved, such as answering questions in AMA sessions and providing support in #motivation or maybe you’re privy to resources for beginners that can be shared in #resources!
+There’s also a #beginners channel that you can join to connect with other folks who are feeling the same :slightly_smiling_face:
+
+Q. There will be some kind of project showcase?
+A. Hi  Rivera While the Community team won’t be hosting a Project Showcase for this particular Scholarship, please do feel free to organize one with others if you feel you can make it work! :+1:
+
+Q. What are some new projects/features that Udacity is currently working on implementing?
+A.  Garcia You will get to know this only once they are fully baked! :wink:
+
+Q. How will this scholarship prove to be beneficial for my career path ?
+A. Hi  SVS This Foundations course was created with the Microsoft team so if you complete it, you’ll have learned valuable basic skills that will be beneficial for your future!
+
+Q. please resend the meeting link
+A. Hi  justus! There’s no meeting link, all AMA sessions are conducted in this channel :slightly_smiling_face:
+
+Q. , , : If we are not selected for scholarship, can we still join the ML NanoDegree and if yes, when the process will be announced ?
+A.  Pathak Hey! Yes, the nanodegree once released will be open for general enrolments after some time of release! You can keep following Udacity’s blog to see when that happens! :slightly_smiling_face:
+
+Q. Hi,  I want to conduct webinar, can I do that via zoom?
+A. Yes, you most definitely can!  Goyal In this case, we can count it since we don’t allow for video calls to happen in the Slack workspace!
+
+Q. Hi,   , are we really allowed to create other channels or pages on different social networking platforms such as WhatsApp or telegram, is it advisable to do so as most of the WhatsApp groups and telegram channels are again getting spammed like this.
+A. Hi  Kumar Jha! We have no rules against that but keep in mind that participation on any other platform outside this Slack community will not count towards your community participation and there’s the risk that we won’t be able to help if there’s a code of conduct violation of any kind. Hope that helps! 
+
+Q. How does Udacity support peer-to-peer collaboration?
+A.  Garcia
+We believe in the value of Peer-To-Peer contributions and therefore we rely very much on the concept of Communities in all our programs! :slightly_smiling_face:
+
+Q. In your professional opinion do you feel completion of this course would adequately prepare one for the DPI-100 certification?
+A. Hi  Aderoju! I would definitely try asking your peers in the #general_discussion channel!
+
+Q.    Can we have a mechanism to limit number of questions per head,  lets say 5-10 after you post green Light. A lot of important information being missed, Likely this one too
+A. it happens you can view the transcribe posted in google site it contains all the important questions
+
+Q. Will our Azure portals with our projects during the course remain active after the challenge is over as well?
+A. The lab content will be gone. However, anything created outside the course will still remain.
+
+Q.  I consider myself as an introvert on social media interactions, any tips on how to interact more effectively? 
+A. I think all of us on the Community team identify as introverts :joy: I would personally suggest sticking to one channel that you’re interested in and feel comfortable in!
+It can be really overwhelming looking over every single channel and we don’t expect you to post in every channel! Participating in the community is a lot of fun and an enriching experience, try getting involved in a channel that feels special to you :slightly_smiling_face:
+
+Q. Does this course uses Microsoft frameworks or other open source frameworks as well?
+A.  Kumar I do not have an answer to this Suresh! But I will find it out and get back to you! :slightly_smiling_face:
+Meanwhile, try posting in #tech_help or #general_discussion to see if your peers can help! :slightly_smiling_face:
+
+Q. Will we get a chance to ask questions to the instructors of the course? Somtimes it would be helpful to get clarifications from those who created the materials. Thank you.
+A. Hi  Nair! I’m afraid you won’t get that chance. That said, we’ll have a end-of-program survey and I’m sure our instructors would love to hear any feedback you have for them there!
+
+Q. Can we create presentation_and_recordings channel or something like that to only include sources directly related to course because many people ask same questions
+A. Hi  Cem Durak! If you have an idea that will help the community - such as creating an FAQ source like you mentioned above - please do so and fill out the form in the #community_ideas channel once your idea is fully ready to go!
+
+Q. Do we module on how to deploy the models in the cloud as well?
+A.  Kumar I guess that would be mostly covered in Phase 2 of the program!
+
+Q. How much useful will be the knowledge gained after the foundational course on a professional front?
+A. Based on the course content, the foundational level information should give you enough knowledge to build on for a junior data analyst or machine learning engineer.
+Of course, with more practice and application, you get better and better.
+So don't just stop with the foundational course. Do your own research to further what you have learned.
+
+Q. Can you please state more about Study Groups? As in should they be on Slack or how to form them or how will you monitor what goes on on study groups  
+A.  Pendurkar Study Groups are public channels in Slack, we can see all the activity that goes on! We’ll have more details when Palak launched the program on July 21st 
+
+Q. If we have a doubt while doing the course can we ask any instructor about the doubts?
+A. For phase 1, you have the community to ask your questions to. In phase 2, you'll receive guidance from instructors as well.
+
+Q. Many people started to study, I think it will be better to open study groups earlier, can we do that? 
+A. Hi  Cem Durak! We’d like everyone to get settled in first and to truly understand the Phase 2 requirements which is why we wait a few days. But Study Groups is coming very very soon!! That said, if you’ve formed a group you may definitely start meeting now and then formally register your group when the program launches next week!
+
+Q. does become student leader increase your percentage to move on to Phase 2? if yes, so almost everyone want that position then whereas such position is limited (edited) 
+A. Hi  Dwi Utomo, being an active Student Leader counts for community participation but it doesn’t increase your chances for Phase 2. You can most definitely advance onto Phase 2 without being one 
+
+Q. If any question’s answer in quiz is wrong and it is not getting submitted even after entering the wrong answer. How to go about it to mark complete 
+A.  Kapil You can use the ‘Feedback’ button in the lesson to send out a request to our team about this. That said, it is your ‘attempt’ on a quiz that counts towards course completion so don’t worry!
+
+Q. Hi, Will we have an extra class from Microsoft in aditional to the udacity course?
+A. Hi  Roberto Silva Atto! _628 is right, there will not be a separate class from Microsoft in this scholarship!
+
+Q. Thank you entire team for putting such a useful orientation. To be honest, Slack is quite overwhelming for the first day. Hoping to schedule appropriately and bring meaningful to the plate.
+A. Hi  Addagalla! So glad you’ll be attending!
+
+Q. Can we actually do the AMMA sessions on zoom??? this is overwhelming and I feel that someone speaking will lead the group beter
+A. Hi  Harring! We have considered doing a session on Zoom (as we love seeing everyone’s faces) but hosting on Slack allows Palak, Grace and I to be much more efficient as we all can be answering questions at once! :wink:
+A. when things start dying down and everyone is in the groove we can definitely consider doing a live AMA on zoom! :+1:
+
+Q. If I skipped all of the quiz from that module, can I have an opportunity to get a ND scholarship ?
+A.  Putu Noviyanti Kusuma Nope! All the quizzes and exercises and video lessons are mandatory to be completed inorder be considered for Phase 2!
+
+Q. I am seeing only question before and after red light, where can I find the answers. someone kindly advise me.
+A. Hi  Cheetirala! We have some wonderful students here who are helping us out! If you see one of these emoji’s it means the Community team has taken the question to respond! 
+
+Q. I think interactive learning is sometimes better and more efficient, can we create p2problemsolving sessions that we help each other with speaking on a discord channel or zoom? 
+A. Hi  Cem Durak, this is a great idea! You can try requesting a channel or creating a study group that focuses on peer to peer learning! Here’s the form to request a channel :slightly_smiling_face: https://sites.google.com/udacity.com/microsoftazurechallenge/resources/forms-links
+
+Q. If I don't get selected for phase 2 of the scholarship will I lose access to the foundation course?   
+A.  Mhatre Regardless of whether or not you make it to Phase 2, the course access will be there only until September 10th after which the course will be removed from your classroom.
+However, it will in some time be available as a free course on Udacity and you can always enroll in it to review what you learnt before! :slightly_smiling_face:
+
+Q. When can we expect the answer to our queries that we asked while the green light was on?It is taking too long
+A. Hi  Rakshit! If your question was accidentally missed please do post it again here and I’d be happy to help you! :sparkling_heart:
+
+Q. Would it be possible to post the lab instructions as a stand alone document in order to make the labs easier to follow. It seems several people have also voiced problems navigating the labs and reading the instructions on the side pop up window at the same time.
+A.  Rhode Thank you for putting up this request and letting us know! I will definitely check with the team if this can be done and get back to you!
+
+Q. is it possible to open the study group earlier than 21st? 
+A.  Chhabra You can set up an informal one and gather members, but you won’t be able to request a channel for your study group until the 21st!
+
+Q. Would request that beyond Study groups, later during this program we should put a mentorship program, so that people who have already completed courseware or are about to complete can help those who are struggling at some point.
+A. Hi  Prakash! Starting a Mentorship program is a great idea - we’ve had students in past Scholarships do just that! Definitely put together a plan and when you’re ready to launch, fill out the form in the #community_ideas channel to let Palak know!
+
+Q. #ama_sessions   how long the second phase will last, will we get a certificate from Udacity or Microsoft?
+A. Hi  D Auguste! If you pass all of your technical projects and career projects in the Phase 2 Nanodegree program then you will officially graduate and receive a Nanodegree certificate! :mortar_board:
+
+Q. If I were to seek guidance from any udacity mentor , regarding this course. Who should be the best person to reach out to ?   
+A. Hi  Choudhury,  is your dedicated Community Manager for this workspace!
+
+Q. When can we expect the answers to the questions we asked in the 1st green light?
+A.  Rakshit They have been answered! :slightly_smiling_face:
+
+Q. Hi I'm in Australia so i'm not able to do the 10am session on Fri so leaving this as a message. Could you leave an answer and I will pick it up later.  I'm interested in an Australian study group. There seems to be few other asking also in #community_ideas.  If there is one could you leave the link to it and I will pass it on, otherwise could I start a study group for Australia?  If so, please leave details on how I do that.
+A. Hi  Carroll! You can definitely start putting your group together now and start meeting! Once Palak formally rolls out the program you can register your Australian Study Group through the formal form.
+A. Hope that helps! btw: Took my family to Australia last year - best trip ever!
+
+Q. Is it possible to have a way that labs and instructions be viewed in different window?  to improve UI experience   
+A.  Saad Uddin While you can use _628’s suggestion, we will see what we can do to help with this! :slightly_smiling_face:
+
+Q. Hi  could you please explain more about all the topics you brought up in your previous answers?
+You've mentioned Community programs like 50 Days, Study Jam, Visual Challenge and Student Story Challenge
+A. https://sites.google.com/udacity.com/microsoftazurechallenge/home?authuser=0
+
+Q. Do we get any notification when our questions are answered?
+A. Hi  Das! If one of us from the Community team answers you, you will most definitely be tagged! :wink:
+
+Q. I need some clarity    when can we start the group meetings- is it after Tuesday???
+A.  Torku If you are referring to the study groups, you will have a chance to form them starting late next week!
+
+Friday, July 10th  10 AM  PDT | 10:30 PM IST
+Q. what is the link for ama session
+A. no link, it’s all held here!
+
+Q. Can we host weekly quizzes to improve participation and share knowledge?
+We can discuss too whatever we have learnt over the week .
+
+A. You totally can! Pitch your full thought out idea in #community_ideas 
+
+Q. What are the tentative dates for phase2 and the complete syllabus of the ND
+A.  Kumar This is a brand new ND that is coming up and it is still in the development phase therefore we do not have the complete syllabus now, however you will be learning about deploying, training ML models of increasing sophistication using the Azure Studio.
+The phase 2 is expected to begin towards September end.
+
+Q. When can we expect to see active study groups and challenges?
+A. Hi  R! You can find the schedule of all upcoming Community activities on our Community page of the Google site :+1:https://sites.google.com/udacity.com/microsoftazurechallenge/community
+
+Q. How can I volunteer for AMA session transcript?
+A. Hi  Quijano! Just let us know here! 
+
+Q. When will start the 2nd fase?
+A. The end of first phase is 10 September. After that selected 300 will continue second phase
+
+Q. What is the duration of phase 1
+A.till sep10 2020
+
+Q. #ama_sessions
+
+
+Please the 50days challenge, what's it about?
+A. Hi  OREJAH! The 50 days challenge is one of our Community sponsored challenges where you’ll take a pledge to work on your Foundations course for 30 minutes for 50 consecutive days, share your daily update and encourage 2 others every day! Palak will share exact details when the challenge is launched!
+
+Q. Can I volunteer for spanish transcripts?
+A.   Hey! As the general language for the program is English, let’s keep all the information in English itself! This will prevent loss of information! 
+
+Q. for slack channel creation..for one channel do we need to send many requests for it to be approved ?
+A. No, you need to fill the form once per channel request
+
+Q. What is criteria for study groups evaluation?
+A.  Akram I think you mean on what basis will we deicide whether we will give a channel to a certain Study Group?
+So, in previous scholarships we used to have some minimum member threshold for deciding this but we realised that it was better if we could create all the study groups that have been requested! So you will get one if you request one!
+Just that, make sure it has not already been asked! :slightly_smiling_face:
+
+Q. What are some examples of student initiatives?
+A. Hi  Losch ! In the past, we’ve had students put together a Mentor program, a Study Buddy program, host technical webinars, host quiz competitions - the sky’s the limit!! We love it when students get creative!!
+A. When putting an initiative together, think of how it can benefit students in helping them complete their coursework and strengthen this community :sparkling_heart:
+
+Q. Any best practices?
+A. Hi  Glass! If you mean best practices for participating in this student community, definitely check out our Orientation slides we posted on the Google site :grin: https://bit.ly/microsoft-azure-challenge
+
+Q.  How the phase 2 will be help for placement?
+A. Hi  Thakur! In addition to the real-world projects that you’ll complete in your Nanodegree program (and that many students add to their GitHub to show their technical skillls), there are also career projects that will help prepare you for your job search!
+
+Q. if you miss one day during the 50 day challenge, can you start all over?
+A.  Olatile You’ll be allotted a few skip days but we don’t want you skipping days upon days! Palak will have further details when it’s launched!
+
+Q. When we can we expect the start date of phase 2
+A. Hi  jha! We don’t know the exact dates, but you can expect it to be a couple of weeks after Phase 1 ends :slightly_smiling_face:
+
+Q. : Any advice on how we can manage the extent of messages in slack.. I find it overwhelming with so many messages. I love it.. but it seems huge and would love to respond to all messages but how can I manage it well?
+A. Hi  Sivanand, I would suggest that you start off focusing on one channel that interests you!  We don’t expect you to keep track of every channel. This way you can participate in meaningful ways :slightly_smiling_face:
+
+Q. hey, can you give some advice on conducting a webinar? should I just post link and time or any other suggestion?
+A.  Goyal  Once we have the Student Leaders, you can always reach out to them to help you with any such things! But for now, you can write a DM to me with the details and I will see how we can proceed! :slightly_smiling_face:
+
+Q. in 50 days challenge, if I have completed the course already, can I update about the study I did of other courses of Udacity?  
+A. Hi  Pendurkar! if you’ve already completed the course, you may spend the 50 days on studying other Udacity courses that will help further your technical skills!
+
+Q. What is the criteria  for study groups
+A. Just submit your request. And Udacity team will review and get back to you
+
+Q.  I want to know where to write about 'why this scholarship excites you' article?
+A.  Arora Hello!
+So we will be floating a Students Story Challenge during the program through which we will be collecting your stories ofcourse! But you can always make use of Medium or any other such blog platforms to also pen down any thoughts and then share them with your peers here.
+FYI  in the past scholarships, we had students who created blog writing challenges for the respective scholarship! Here the scholars wrote on various technical topics as well about the scholarship! :slightly_smiling_face:
+
+Q. Can we have a program for the nanodegree please? SO we know what exactly we are going to learn?
+A. Hi ! There will be a detailed syllabus for the new Machine learning with Microsoft Azure Nanodegree program when it’s launched! Stay tuned!
+
+Q.   how can we connect to our peers?
+A.  Ghosh Try hopping in to the channels! You can use the Channel Browser at the top of the side menu to see the Channel Directory!
+
+Q. How many slack channels can a user be a part of ? Any limits ?
+A. No limit
+
+Q. How much is the importance of Udacity nanodegree certificate?? 
+A. Well, at the end it’s not about the certificate but about the knowledge you gain. However, Udacity certificates are recognized in most of the organizations.
+
+Q. Do we get certification after finishing phase 1
+A. No
+
+Q. What responsibilities will a study leader have?
+A. Hi  Kesavan! Great question! Each Student Leaders will be responsible for taking care of one of the Slack channels in this workspace - They’ll make the channel welcoming and useful - ensuring every question is answered! They’ll come up with initiatives that pertain to that channel to further help their classmates! :sparkling_heart:
+
+Q. Slack is getting a bit too overwhelming to manage:((
+A. This is just the beginning and everyone's a little too excited right now, but surely it will calm down after a week or two when everyone's settled in 
+
+Q. Can you recommend good time management techniques?
+A.  like  Pendurkar said, just pick a couple of channels that interest you! A lot of us use the pomodoro technique as well! 25 minutes of studying/working and 5 minutes for break time!
+
+Q. Do we have the weightage for each of the factors which are being considered for moving on to 2nd phase
+A.  Nandyala Hey Pavan!
+So the course completion from the above mentioned criteria is basically also a mandatory requirement because only those students who complete the coursework by the deadline will be considered for Phase 2 and their community participation will be evaluated for further deciding the final names! :slightly_smiling_face:
+
+Q.   how will the study groups be divided? And what all are suggested to do with the study group?
+A. Hi ! Study Groups are self-volunteered, we don’t assign you group members! You’re free to recruit your own members 
+
+Q. How long is phase 2?
+A. 4 Months
+
+Q. Is it possible to make Channel request by country or region? what if there are same request or look alike
+A. Hi  Vicent! Depending on your goals, you may want to instead consider forming a local study group! Details on one to create (and join!) a study group will be released next week!
+
+Q. When will the student leaders be elected?
+A. You can apply for it on July 14. Keep an eye on the announcement.
+Also, you could check the website for details
+
+Q. Hello team!! nice to meet you guys!  My question is "is it really important when should we complete this course to get a scholarship? " thank you in advance!
+A.  K. Hey! I understand that you mean to ask if completing the course earlier would increase your chances. The answer is Yes & No.
+No, because there is directly no implication of completing the course earlier or later as far as you do it by the deadline.
+Yes because indirectly then you can then choose to spend the time more on making quality contributions to the community! :slightly_smiling_face:
+
+Q. What is the criteria for the selection of non tech students in phase 2 ??
+A. Hi  Singh! definitely take a few minutes to  watch our orientation recording to find out more! https://bit.ly/microsoft-azure-challenge (edited) 
+
+Q. When the approved channels will be announced ?
+A.  Nayudu The first round of Channels selected from the channel requests form submissions will be announced coming Monday! :slightly_smiling_face:
+
+Q. What if a lot of participants share same end score of quiz, and exceed 300, how will you judge?
+A. We look at 100% course completion, community participation, and the selection criteria for Phase 1 :slightly_smiling_face:
+
+Q.  do we have any channels for interview preparation after this program ?
+A.  Gupta We do not have a dedicated channel for interview preparation now but you can always submit a request for such a channel!
+In the past we have had students even doing resume evaluation rounds and interview preps with each other in channels dedicated for career related discussion!
+
+Q. When does the 50 day challenge begin
+A. Hi  Pawar! Keep your eyes on the #announcements channel for Palak to formally share all the details!
+
+Q. How to create a group here?
+A. Hi  &  ElGammal! When the program is formally launched, Palak will share the form to register you Study Group! We are asking the Slack channel request form be only used for channels that apply to everyone here  - an example might be #hobbies :slightly_smiling_face: hope that helps!
+
+Q. Can we make a group where people can post general questions about machine learning, data science and AI. And separate group for azure features related problems?
+A. Hi  Kashyap! Definitely put in a request to break out the general discussion channels by topic but filling out a Slack channel request form! https://sites.google.com/udacity.com/microsoftazurechallenge/resources/forms-links
+
+Q. You had briefly mentioned about the strategy to select for round 2, that you might have an overview on. Can you please share it whenever you have time, so that while we are in the process of this program, we can mentally feel to having those points covered as far as we can from our side.
+A.  Sharma  Andrea Garcia
+Hey! We are looking for participation wrt three aspects:
+Participation in Initiatives organised by Community Team
+Slack Contributions
+Student Initiatives
+What you can do is refer to the Orientation Section through the slides or the recording available HERE, where ‘Community Participation’ is discussed!
+HERE: https://sites.google.com/udacity.com/microsoftazurechallenge/home?authuser=0
+
+Q. For working professions, is it okay that instead of doing course everyday little by little, if we complete a bulk amount on weekends? Does it impact negatively ? (edited) 
+A. no the course is a self placed learning
+
+Q. Slack community is an amazing way to get so many people together but the amount of participants and keeping up with the community involvement is overwhelming
+A. Hi  Gupta, we totally understand! The first two weeks are the busiest and things shortly calm down after. I would suggest sticking to a few channels that are interesting to you!
+
+Q. Will there be any technical AMA sessions in future?
+A.  Kumar Yup! Twice a week for every week of the Program! You can check the schedule here.
+
+Q. Hi  When would you guys be disclosing the criterias required to be a channel manager?
+A. Hi  Kapil, We’ll launch it on July 14th, check out all the dates here https://sites.google.com/udacity.com/microsoftazurechallenge/calendar
+
+Q.  can we confirm our channel requests were received?
+A.  Rivera If you have submitted the Channel Request Form then stay assured that your channel requests have reached us! :slightly_smiling_face:
+
+Q. How many hours are there in the second phase??   
+A.  Rohilla
+The second phase will run for 4 months and it is recommended that you spend 10 hours / week for graduating from the nanodegree at a comfortable pace
+
+Q. How can one be able to read all the chats everyday and able to respond or be active?
+A. A recommendation from the orientation was to limit ourselves to just a few channels so we're not overwhelmed:grin:
+A. Answering and asking questions (what you've done) is also part of the criteria :blob_cheer: I truly believe they're looking to value authentic attempts to contribute to each others learning!
+
+Q.  how to keep performing consistently
+A.  Sharma
+So there’s no one rule! But the key is to make a schedule for the coursework to make sure you are getting ahead in it and also make a consistent presence in the workspace with participating in the initiatives, engaging in discussions with your peers & more! :slightly_smiling_face:
+
+Q.   Will revision of the lectures count in 50 days challenge ...in case anyone has already completed it in less than 50 days? (edited)
+A. Hi ! If you complete the Foundations Course before the 50 days is up, you can definitely use the remaining time to work on a project as  Ahmed suggested - as long as it’s related to the coursework, you’re good!
+
+Q. Since there are a lot of students here, Is it possible to find out a list of students based on region or time zone? It will be helpful to make a study group based on region or time zone.
+A. Hi  Ahmed! When the study groups program launches, we’ll ask each group to “register” and state their location. All groups will appear on a full list where students can search by time zone and location. Hope that helps!
+
+Q. How do we get Azure Practice Lab session?
+A.  Hey! When you get to the lessons where a lab is required, you will find the access button for the lab! :slightly_smiling_face:
+
+Q. Hello ,
+Could you please give some orientation again about the type of Slack community participation you are willing to see? Otherwise there is the risk that many people write random and meaningless messages, hoping to be accepted to phase 2, making the real valuable messages not visible in between so much “spam”. Unfortunately, I fear this is already happening to some extent, even in this same session. Maybe there should be a penalty system for such kind of messages (e.g. asking the same questions again and again instead of spending some seconds to find it in the Google site should not be rewarded). I wish the quality of the discussions were higher.
+Thank you!
+A. Hi ! We want this community to be open and welcoming so we want to stay away from penalizing anyone! Always keep in mind that we are in the first days of the Challenge so new students are streaming in and need to get themselves orientated! Once students start learning to go to the Google site for general info, the conversation steer more in depth  to the program. And feel free to form a study group if there’s a particular topic you’d like to research with others!
+
+Q. There are many people with a background in computer science with considerable experience in Machine Learning. So they can be more active in Slack and help other students. My question is that Is it fair to compare their activity with people that are new coders? I think they are more likely to give the chance of phase 2 scholarship. honestly, it makes me stressful
+A. Asking questions is also considered as participation. I too am a beginner and having an opportunity like this where I can ask about any concept is awesome in itself.  In two days itself I have learned so much.
+
+Q.   can you tell more about 50 days challenge?
+A. Hi ,  If you finish early you can revisit the material or work on other related courses on the Udacity platform :slightly_smiling_face:
+
+Q.   when you talk of the selection criteria that we have be an active member in the community, how will you decide which person is more active in the community, you have an algorithm or is it manual? Just curious
+A.   Rohilla We cannot reveal the process but rest assured that all the things will be considered and taken care of! :slightly_smiling_face:
+
+Q. Hey 
+Can we please do something to organize the slack channels and make people post in relevant channels instead of posting those in all the channels.
+It's that there are so many people and one message across all the channels is just overwhelming. We may actually miss some important messages
+A. Hi !  Divkovic brings up a great point and we’ll have Student Leaders in a couple of weeks to make sure the right posts go to each channel :slightly_smiling_face:
+
+Q.  For phase 1, no project is included for hands on learning. Can you guys suggest a good platform for applying the Gaines learning’s
+A. Hi  Kapil! This would be a great question to ask your peers in the #tech_help channel!
+
+Q. Do I need to stay active on slack community channels everyday for my community participation be counted? Catching up with slack becomes really overwhelming on a daily basis.
+A. Hi  Duggal
+Try to get involved in a few conversations everyday and take part in the activities which will be later initiated by  and 
+I think that should be sufficient :)
+
+Q.  Can we post questions in a google form along with a mention  of the category the question refers to. That way we can remove duplicate questions and all the answers would be in a single place, organized by topic. It'll be easier for us to go through them and easier for you to answer them.
+A. Hi ! If you’d like to start an FAQ sheet that can be an accompaniment to all the information on our Google site, please feel free to do so and inform Palak by filling out the form in the #community_ideas channel :grin: Thanks!
+
+Q. Would participation in different study group channels also count towards overall community participation?
+A.  Akhtar Ofcourse! 
+
+Q. , ,  can we ask you questions outside of AMA hours?
+A. Hi -Nkumane, you most definitely can! We’ll ask you to ask questions to  since she’s your dedicated Community Manager!
+
+Q. Can we make this AMA session read only during red light?it causes lots of spamming
+A. Hi  Duggal! We’d actually prefer not to do that as many students here have been super helpful in supplying the answer :grin:
+A. You’ll see a lot of repeat questions at the start of this challenge as new students join every day but that will soon die down once students get orientated!
+
+Q. Would Udacity be interested in supporting student-led initiatives? Personally, I along with others are co-creating a system that connects fellow Udacity students together to collaborate on independent projects. Incentives would be provided to reviewers (those with experience in the field) to help guide or provide quick feedback on student projects. Our end goal is to hopefully incorporate this system into Udacity so that other students have this optional opportunity to create longer lasting connections whilst enhancing their skills. Would Udacity be interested in lending a hand (ie. Providing feedback on it once we have a MVP)?   
+A.  Garcia We definitely love all the awesome initiatives that our students bring in!
+You can use the #community_ideas channel to further work upon this and give it a good shape and once you are ready to launch it, submit it through the Community Ideas form.
+Regarding the exact help that we can get you, we cannot assure you of that now (depends on a lot of factors) but we will certainly try our best to help you with your requests! (edited) 
+
+Q. Hello everyone!! For Udacity team, what's the biggest advantage in learn ML in Azure platform? Thanks for the support :slightly_smiling_face:
+A. Hi  Santana! The biggest advantage of being accepted into this Scholarship is that the Foundations course material was created in partnership with the Microsoft Azure team - so you are really getting the skills they want people to have!
+
+Q. Hi    I hope all of you are doing great. How's working from home going for the Community Managers? :dancing_penguin:
+A. Hope you’re doing well  Zahid! It can be a little uncomfortable and noisy sometimes, I’m also really starting to see the importance of investing in a home office and an ergonomic chair :open_mouth:
+A. Hi  Zahid It’s been challenging trying to work with my little ones at home - and I miss seeing my colleagues in person for sure - but staying safe and staying at home is what’s most important!
+
+Q.   
+Thanks for arranging this.  This is more of a suggestion than a question.  Apologies in advance if this is not the right channel for this.
+With the sheer amount of messages and similar questions, I am sure you will concur that it gets extremely difficult to read all the messages.  All messages may not be applicable to everybody.  Here are a few queries that are repeated quite often -
+1. Info about orientation.
+2. If certificates will be issued.
+3. Study Group creation.
+4. Coding/Development experience.
+5. Selection criteria.
+6. Become a student leader.
+I am hoping that based on the messages and questions you receive during the AMA sessions you will update the existing FAQs and pin it on top of every channel (or just have a separate #faq channel) so that it can be referred to before asking questions that have been addressed already.  I can volunteer if it needs to get updated.
+Satish (edited) 
+A.  MulayRama Hey Satish!
+We totally get your concern! The situation is a bit crazy now because most of your peers have just joined the workspace or are very new to this concept and therefore eager to get the answers to their questions!
+But this will get better in a few days when most of the community members feel more settled in here.
+Thank you for your suggestion! We will try adding more info in the FAQs on the Google site! :slightly_smiling_face:
+
+Q.  For technical and course related stuff, when and where we can discuss ?
+A. #tech_help is official and a wonderful place to ask questions outside of the lesson channels!
+ 
+Q. Do I need to stay active on slack community channels everyday for my community participation be counted?
+A. It will definitely help if you do so, but above all try your best (we all have personal life and  things to attend) and will help to be concise to a schedule (edited) 
+
+Q. , if we make to phase 2, will we get vouchers to write a ML related Microsoft certification?
+A. Hi  Mengue! If you complete and pass all of your technical projects in Phase 2 (your Nanodegree program) you will officially graduate and receive a Udacity Nanodegree certificate. Hope that helps!
+
+Q.  For technical and course related stuff, when and where we can discuss ?
+A. Hi  Sharma! See the spot on responses from your classmates above!
+
+Q. Is there a way we can help make things easier for the staff during ama sessions ? Does helping in answering the questions create more spaming?
+A. Hi ! We’ve been doing this for quite some time and tried a variety of methods and this seems to work the best for us in terms of the volume of questions we’re able to answer! That said, we are always open to suggestions so if you have an idea please do let us know! :sparkling_heart:
+
+Q. Can I send 2 different channel requests? Or are we limited to one channel idea?
+A. You’re more than welcome to request multiple channels :slightly_smiling_face:
+
+Q. So, for phase 2 we need to complete the course and participate in slack actively?
+A. Hi  Jadhav! For those accepted to Phase 2 - the Nanodegree program - community participation will not be a requirement. That said, you’ll be connected to Student Hub, our internal chat platform where you can still connect and get help from your classmates!
+
+Q.  why is the activity on slack so important for selection to the next round
+A.  Deepak Aluru   Basit _hiwanj
+Hey guys! So time and again we have seen that our most successful students in the long run were the ones that learnt and grew together with a community.
+You will soon see how this community will turn into the greatest resource you will have not only with regards to learning the foundation course but also for your career development in general! :slightly_smiling_face:
+
+Q.   
+How you select student leaders?
+What will be their role?
+Will they have any advantage over other students to get selected for phase 2?
+A. Student Leaders will be selected based on your passion and willingness to help and lead your fellow peers. No prior experience is required to become a student leader. Student leaders will manage their respective channels to make them more productive, help out peers in answering their queries and also initiate different activities to engage the students in their channels.
+They will have no advantage over other students to get selected.
+
+Q. What are the criteria to be selected for phase 2?
+A.Hi ! here’s the link to our Google site where you can watch the recording from Orientation :grin:https://bit.ly/microsoft-azure-challenge
+
+Q. Hi everyone, I understand our participation on Slack is an important factor for us to be considered for a nanodegree program. But it is just a beginning and it has been already overwhelming with all the messages. Is the quality over frequency and quantity considered and in which way? Thanks! :)
+A. Yes, they said yesterday in orientation that quantity doesn't matter; only quality does. They claim that a thoughtful, substantive answer looks very different from "hello from Ontario!" or whatever. (I tried to pick an example of a spam message I hadn't actually seen. :))
+
+Q.      great to see you here :a-parrot:. Can we have a channel where we can ask technical question to the Microsoft representative or they mentor us in technical part of ML/DS like some sort of mentor session? (edited) 
+A. Hi ! I believe the team is in talks with a Microsoft developer for a technical webinar but it will be difficult to have a developer own a dedicated channel.  Like your peers stated, #tech_help is a great alternative!
+
+Q. How can we suggest a challenge similar to the 50 days of code?
+A. There is also form available for that
+
+Q. do we have mentoring session with the course? (edited) 
+A. Hi  Chinmay! Because this is a Challenge we steer classmates to get and receive help from one another! For those accepted to Phase 2, you will have access to a Mentor Community where you can ask any technical questions related to your ND. Hope that helps!
+
+Q. Is it only once there would be a contest for student leader such that one would be a student leader throughout the program
+A.  Basit That’s correct! We might need more Student Leaders throughout the scholarship  since more channels are constantly created so if you don’t get in the first time, there may be additional opportunities later :slightly_smiling_face:
+
+Q. Will the challenges be day long or will be specific to few hours? This might bring timenzone issue.. please keep it day long?
+A. Hi  Duggal! We want to make our Community sponsored initiatives accessible to everyone which is why many will be over a time span vs. being specific hours. Hope that helps!
+
+Q. What are the differences between Machine Learning Nanodegrees by AWS and Azure?
+A. winners of phase 2 of AWS scholarship will get Machine Learning nanodegree with this scholarship they will get a nanodegree designed by Microsoft about Azure ML
+
+Q.    I would request you to please elaborate on what criteria will be followed to measure the slack participation as it is an important factor for the phase 2 selection. How much time should I spend on Slack and what type of questions and answers will be considered as slack participation?
+A. Hi ! We want to be respective of everyone’s schedules so we never state a time. That said, do what is right for you - as your classmates have mentioned we are looking for meaningful contributions while you are here! That means participating in our community sponsored initiatives or joining other classmates in making an idea come to reality!
+
+Q. Can we do project showcasing from our own learning from phase 1 here?
+A. Hi  Jadhav Absolutely! While the Community team doesn’t have any plans to host a formal Project Showcase at the moment it shouldn’t stop you and your classmates from creating a project that would help reinforce and demonstrate what you’re learning here!
+
+Monday, July 13th 11 AM PDT | 11:30 PM IST 
+Q. Hello! Thank you for holding this additional AMA session. Does our activity in private direct messages (e.g., private study group chats) count towards our community participation?
+A. No they don't
+
+Q. Hi, I saw a lot of messages in each slack channel and that creates a doubt.
+Eventhough it is 10000 students who got selected for phase 1, it's only around 5000 students in slack now.
+If you don't mind, can you tell us what is the percentage of students who completed their phase 1 completely in previous scholorships?
+Do you think that we can break that in this batch?
+A. Hi  It truly depends on every program. Normally we see anywhere from 25 - 35% of students compete their coursework
+
+Q. Can we create #10daysofudacity or #30daysofudacity challenge for people who wants to complete fast and give them different badges?
+A.  Cem Durak Yes ofcourse! 
+
+Q. Can we study other udacity course in #50daysofudacity challenge?
+A. Hi  M. Hasan! See me here https://microsoftmlchallenge.slack.com/archives/C016T70CJ3T/p1594666070283600
+A. Yes
+
+Q.What is the forecast for opening the new channels?
+A. New channels will come in on Tuesday. It was addressed during the slack orientation
+
+Q.  plz give clear clarity about study groups .
+A.  Durga Barnala On Wednesday July 15th, we will release the Study Groups program and once it is released you will know the steps through which you can request a Study Group and get a channel for it! 
+
+Q.    how should we encourage 2 peers for the 50 day challenge..should we tag them?
+A. Hi all! We are really trying to steer everyone away from tagging! Please instead use an emoji or leave a supportive reply just to that student’s daily update! 
+
+Q. Since this course is sponsored by Microsoft, Do you have any plan to arrange live webinars from Microsft developers?
+A.  Ahmed We would say we are trying to get the team for a webinar for your guys! So fingers crossed there! 
+
+Q.  Hi , after completing phase 1 , I do understand we dont receive any certificate but will there be nothing that we can show in our resume?
+A. So we will share some language with your which you would be able to use on your social and professional platforms like LinkedIn to include that you have been a part of this Challenge! 
+
+Q. How can we encourage our peers through our 50 days challenge??
+A. Hi  Singh and  Kanojiya -If you’ll just refain from multiple tagging, please :grin: We instead would like everyone to use an emoji or to reply directly to a student’s daily post. Thanks! (edited)
+
+Some people in Slack have asked me about some guidance/coaching for finding a job in the big German technology companies (e.g. Bosch, BMW, Daimler, Siemens, etc.). Would this be one activity you would encourage, although not directly related to ML and Azure?
+A. Hi ! if you have experience to lend in this area, please do help your classmates! A #careers channel might be a good request to put in for this!
+
+Q. Hi, What is the role of slack display name?
+Is that need to be unique to identify people?
+A. Hi ! There is a chance for two people to have the same Slack name - we do recommend selecting something to make it uniquely yours! (edited) 
+
+Q. : Any tips from previous students that can help us complete the #50 days challenge?
+A.  Sivanand
+The most successful scholars had just gave themselves this little goal of  30 min of learning everyday! What you can do is may be use something as a reward for yourself once you complete this 30 min of activity everyday and post about it in the channel.
+After some days you will see that posting about it in the #50daysofudacity channel itself will become a rewarding experience for you! Just like we tick off something from a to-do list! :slightly_smiling_face:
+
+Q. Are there any projects that we can do with the group? Is there a spreadsheet with list of projects and groups?
+A. There is nothing from Udacity itself in phase 1. Projects are usually provided in pahse 2. For phase 1, you can always collaborate with other students here.
+
+Q. If we access lab outside udacity window (i.e in a separate tab), will that be counted as learning? 
+A. Hi ! We love your thirst for learning and just ask that you first make sure you have completed 100% of the Foundations course before dedicating time outside the classroom!
+
+Q. How are you gonna monitor our 30 min work in 50 day challenge?
+A. Hi  Athikam While we will be keeping an eye on the daily updates, we do expect that if you need the pledge that you will be committed to adhering to it! 
+
+Q. Aside from regular participation in Slack, AMAs, study groups, and the 50daychallenge, what community activities are we encouraged to participate in?
+A.  Cabiles Hey John! So apart from participating in the the Community Initiatives and lending support in Slack (& asking questions!) you can always initiate some activities on your own or may be help your peers who are initiating them in brining them to realisation.
+You can also form Project based study groups and start working on projects that use the coursework to cement your learnings from the course! :slightly_smiling_face:
+
+Q. Do we have a channel for `Jobs and Placement` where people can refer the jobs or are we going to have one?
+A.  S Chawla As  Rajan mentioned, you can request for such a channel! :slightly_smiling_face:
+
+Q. Wondering if we'll get any support for groups that we request? I know a question on the request form was if we could help to moderate.
+A. Hi  Nie Tham! If your Slack channel request is fulfilled then  will make sure there are Student Leaders assigned to help you moderate!
+
+Q.  what if someone already know some part of course, does he/she need to spend time daily to be part of phase-2 ?
+A.  Gupta Hey Shubham! If you are someone who already knows a larger part of the course then you can start with completing the course and then using your time to support your peers with their technical questions or even organising Tech AMAs and Webinars.
+As teaching others is the best way possible to reinforce your learnings!
+Another thing that you can do is to may be start individual or group projects that use the course learnings!
+But yes, you are required to spend time in the community and with the community!
+
+Q. Can you please give more information regarding slack groups?
+A. Hi ! We’ll share how to create and how to join a Study Group when it’s launched this week! Stay tuned to the #announcements channel for all the details!
+
+Q. What happens if you finish the course before the 50 days of Udacity ends?
+A.  Fatima if you complete it still you need to update what you learn till you complete 50 days in the challenge. 50 days challenge is not limited to udacity learning it is what else you learn in these 50 days.:slightly_smiling_face:
+Good luck :shamrock:
+
+Q. Since im a beginner in AI and ML how can i cope up with peers with prior experience? They can easily interact, answer questions etc. Is there any suggestion on this rather than participating in beginner's channel?
+A. Hi  R,
+I am also a beginner and have the same fears like you and so are many here.This slack community's whole purpose is to help us solve any of our queries (tech ,non tech or general ) with peer to peer learning and interaction.We just started today,so it's loaded with all kinds of posts and comments .As we go further,I hope we will find this very helpful for completing the course phase 1
+Also,to engage with the peers who are willing to form a study group with you regularly would help a lot once there are study groups.Meanwhile,we can choose to joi #beginners channel to meet others like us.
+So,Let's take it on a slow pace and have a happy learning!:slightly_smiling_face:
+
+Q. Should a study group follow same learning interval?
+A.  B J Study Groups can be formed along different denominators and can be based on different goals.
+So if you have such a study group that say focuses on a new project or course  progress of your members then you will definitely benefit if you have a timeline! :slightly_smiling_face:
+
+Q. What's about Udacity's Knowledge platform? Is this intended? I don't think it's in the resources. We can post a question there in the "Microsoft Scholarship Foundational Course". Should we? The orientation video suggested that the activity outside the Slack wouldn't count as activity towards part 2.
+A. Hi  Kucharczyk! Knowledge is a resource for our Nanodegree program students to use to ask question to our mentor community. For this phase of the Scholarship program, we are using this Slack workspace exclusively. Hope this helps!
+
+Q. What is the syllabus for phase2?
+A. Hi  Kumar! The Nanodegree program for Phase 2 has not yet been launched but the syllabus will be made available when it is!
+
+Q. Should a study group have a schedule to tackle on?
+A. Hi  Cem Durak! Great question! We definitely recommend that each Study Group comes up with a purpose or end goal to help them stay on track and stay active! We will be sharing a playbook to help you with this when we launch that program 
+
+Q. There are a lot of junk messages in this channel ! Very difficult to follow this channel !
+A.  The volume of repeated questions in the channel is high right now as many of your peers have just stepped in the program! So this will soon calm down
+That said, if you are finding it difficult to follow, you can always use the AMA Transcripts to have a look at the questions and answers!
+
+Q. Is #50daysofudacity challenge not valid if we sisnt encourage 2 peers a day??  (edited) 
+A.  R It would be valid but it would be great if you could just may be post an encouraging message on a peer’s post! You never know how hard a day it might have been for someone and how your positive messages or even emojis affect them! :slightly_smiling_face:
+This also encourages beginners in the community to participate in the community!
+
+Q. I found an opportunity that would benefit students as well as contribute towards a social cause. Its regarding this initiative by Stanford and some NGOs. An opportunity for data driven people to contribute towards aiding in addressing COViD-19 issues using data. They're pretty connected so I'll be reaching out to them and try to coordinate the talent in the Udacity scholarship with current or maybe even new projects in that initiative. Would Udacity be okay with this??  I believe this is a great way that Udacity platform can be used to help create a better world as well as contribute towards its vision in "democratizing education" via this invaluable hands-on learning experience.
+A. Hi  Garcia! Once you get the specifics down you can reach out directly to Palak for guidance.
+
+Q.   can we arrange a zoom meeting to discuss a lesson or a topic related to the course , and if we can does it count to our score or considered as out side conversation
+A.  Hi  Gharib We are allowing students to leverage Zoom to host a webinar on a topic related to the course - but we ask that it’s fashioned in the way of a presentation and your sharing info vs. open discussion!
+
+Q.    Thanks for this additional session!
+Wanted to know, would getting together with people here to participate in competitions/projects in other platforms (like Kaggle) and sharing the progress here, would it help?
+A.  Saikia  As long as it is closely related to your foundation course topics, yes you can! 
+
+Q. Are there admins of each groups who can add me?
+A.  Once created, the Study Group channels will be available for you to join! :slightly_smiling_face:
+We will share all the details on 15th July!
+
+Q.  Thank you for the Google sheet to enter our names. Couldn't figure out what the third column is for? Enter our name twice?
+A. Hi  Medini! Yes! That sheet is to decide who will transcribe today’s session  - apologies if the purpose stated on the doc is being erased!
+
+Q.  
+Will we have access to the course content after the end of this challenge.
+Regarding #50daysofudacity is it needed to tag 2 people or we can post a comment or react to their day's accomplishment?
+Can you please update us when there is a change in the course content. As after completing and moving to the next lesson sometimes it is observed in the previous lesson some quizzes are reset. It will be easier to track and not miss out on any question as completion is also a criteria for selection.
+A.  Mukherjee
+Nope! You will have the access to this course only until Phase 1 deadline which is Sept 10, 2020. That said, it will be later added as a free course on Udacity which you can enrol in review the concepts.
+You can just leave a comment or even a positive emoji! :slightly_smiling_face:
+Oh! I would definitely connect with the team to know more on this and let you guys know if this. As far as now, I think only the lab instructions have been added to Lesson 2
+
+Q. I just observed one pattern and learned:sweat_smile:
+:tiger: (tiger) and :panda_face: (panda) is a new way of  “In Progress” status
+How can we learn these type of communication more ?
+A. Hi  Kanojiya! You’ve caught us!  and I use emojis to signal which one of us has grabbed a question so that we don’t do double work :wink:
+
+Q. How can I practice the lab sessions in my own Azure account. Is there a way to download each lab exercise instructions?
+A.  Kumar Our experts have just added a new General Lab Instructions concept to the Foundation Course. You can find it in Lesson 2, it is most likely concept 22!
+
+Q. Hi, is there any possibility to use a different approach to manage AMA sessions? So far there are a lot of messages and even with the red /green lights it's difficult to follow. I don't want to be rude but I am sure it might be taken in count, all the best
+A. Hi  Fernandez Tamayo Definitely review the transcripts afterwards. We’ve tried many methods in the past and honestly this is the most efficient way for the CM team to reply to live questions within 60 minutes!
+
+Q.  is it possible to know the syllabus of Phase 2? For the #50daysofudacity challenge, how do you know we have been online at least 30 minutes? Thank you 
+A. Frizzati Hey Aura! As long you are still to finish the foundation course, we will recommend you to cover only the foundation course and related tasks in the #50daysofudacity Challenge posts!
+Q.Hello  what does Encourage and Support atleast 2 peers mean  for #50daysofudacity? is it like liking it ? or reacting to it ? or something else ?
+A.Just encourage someone.
+You can tag them to encourage. (However try not tag people who are not participating)
+You can put likes or encouragement reactions on their progress
+Best method Comment, let them know what a great job they are doing, if they share a problem , suggest ways or encourage to keep it up.  This way you don't really spam anyone and end out helping.
+Note Personal opinion: Tagging is mostly spamming. Only tag people you know for sure are participating or responding some way to your tags.
+Instead reply to other's post as I said. Much more beneficial.
+Q.Hi, When study channels/groups are created, can we automatically join a group or do we need to request access from the study leader?
+A.Hi ! Great question! You may automatically join a group. We’ll provide full instructions on that soon!
+Q.What are the limitations for study group?
+A. Sri Bhargavi  B J
+There are no limits as such for the study groups! Pavan the DM Groups of 9 people are there if you would like to start discussions before the Study Groups are launched on July 15th! 
+Q.Hello! Hope you are doing well!
+Are attending AMA sessions necessary and considered for slack community participation?
+If yes,  then in case we don't have questions to ask, will answering others' questions during AMA be considered participation towards AMA and hence community?
+A.It isn't necessary but it does count for participation!  And yes answering does count as participation too!
+Q.For the #50daysofudacity Challenge, where it says "encourage & support at least 2 peers every day," does that just mean using emojis, etc., or would you like to see that encouragement in the form of "meaningful posts," like for participation?
+A.Hi  Ann Drury  Encouraging a fellow classmate can be as simple as leaving an encouraging emoji or leaving a supportive reply! We are actually trying to curtail tagging this time around! 
+Q.Hey, I was wondering, how many study groups can one person be a part of ?
+A.Hi  and  Narkhede! There is no limit to how many Study Group you may join. We do recommend being realistic of the time you have to devote to these Study Groups are your Group members will be depending on you and that may get hard if you’re stretched too thin!
+Q.What can someone do who accidentally used a different email address to register in Slack than what they used to register into this Challenge?
+A. Exactly as  mentioned, you can use the Slack Invite link again to join this workspace using the email address which you are registered on Udacity !
+Q.When study groups will be created?
+A. Kamaleson July 15th!
+Q.When will the link that contain all the resources will be shared?
+A.Once group leaders are made, they will manage resources group to that
+Q.Are we allowed to take the temporary credentials generated for the lab and use them outside of the classroom.udacity.com browser window on portal.azure.com?
+Will this affect our participation measure in any way?
+The question was asked a couple of times, e.g. https://microsoftmlchallenge.slack.com/archives/C016D7V6YSZ/p1594440954213500
+FYI:  Shukla  Dhondale Amarnath (edited) 
+A.Hi  To make sure I’m understanding, are you asking if accessing the lab not on your local machine will be counted as lab completion?
+Q. How to track our progress in the 50 days challenge and are there only one winner or multiple
+A.Criteria of selection: https://sites.google.com/udacity.com/microsoftazurechallenge/overview/faqs?authuser=0#h.p_i7kWJ8ZcYI6m
+#50 days is a way of increasing your level of participation in the Student Community.
+Q.Hi, does conducting only community events gets counted as slack participation?
+Andd.. Can anyone conduct them or only channel leaders?
+A.Hi ! if you have an idea that’s fully fleshed out you can use the form in the #community_ideas channel to formally submit it to  so she’s aware of what you’re doing!
+Q. I have already completed lesson 2, consisting of 29 lessons as subpart. How are you going to consider that for #50daysudacitychallenge
+Or it starts from today only and I’ll have to go through already completed lessons once again. I
+A.Just start your 50 days from where you are now.   and if you finish before the 50 days are up then continue with some related extra learning or projects of your own. I'm sure there will be plenty of people here in the same situation. The full information & rules can be found here: https://sites.google.com/udacity.com/microsoftazurechallenge/community/50-days-of-udacity?authuser=0
+Q.
+Can you please let me know what's the engagement criteria on slack group to be qualified for advanced Nano degree?
+Because daily I see lot's of posts from everyone
+A.Quality matters not the quantity! if you are participating in learning activities like helping other by commenting on there queries or sharing useful resources such things will be counted
+Q.   I was thinking of using GitHub pages or Medium posts as part of my learning process as I go throughout the course. I read other students in the past Scholarships did the same. Are there limitations about what I can post on my pages? Like images/examples taken from the course, and so forth. Thanks in advance!
+A. Hi ! You’re correct - other students did do the same! We only ask that you please post content that you, yourself have created. We ask that at this time you refrain from posting content directly from the Foundations Course. Thank you for asking! 
+Q. and  since we don't join at the same time, will it be okay to have our peers answering questions while the red line is on at your side without them going like "Red light is on don't ask questions" ? It will keep us busy until you are done answering the previous questions... I think.
+A.Hi  Mengue! Absolutely!! We encourage everyone to answer your classmates questions all the time! We’ll make sure to make that clear moving forward. Until then, please we’d love the help!!
+Q.Hey   thanks for hosting another awesome AMA. My question is more on the projects, I saw that you had mentioned earlier about this in an answer that projects will also counts towards this community participation. Is there any limitations in respect to the project that can be pursued so that they could be counted towards participation - like should utilize Azure etc.?
+A.Hi  Kumar Valeti! While we don’t have formal plans at the moment to host a Project Challenge, if you have completed 100% of your coursework, then collaborating on a project with your peers is a great way to reinforce and demonstrate the new skills you have learned!
+Q.How and when are we going to form study groups?
+A.Hi  Kumar Gupta! We’ll share how to create a study group and how to join one when the program launches! 
+Q. 
+Support 2 peers in #50daysofudacity - Do we need to encourage only those who already took the pledge ?
+A. Revathi G There is no such restriction! You can actually encourage and mention your peers that you know would like to join the challenge and haven’t yet (or do not know about it) to bring them to the challenge! 
+Q.  I know we do not have certificate after phase1, but will there be a badge or anything after completion of phase1 that we can put on LinkedIn? Thank you.
+A. Zhang So we will be providing you with language that you can use on your social and professional profiles to let others know that you were a part of this Challenge. However we cannot confirm about a badge yet
+Q.  For 50 days challenge only Azure course content watched will be counted or we can watch other courses also as part of 50 days Udacity challange
+A.Hi  Kumar! If you’ve completed all of your coursework, you may use the remaining 50 days on related material but finish that coursework FIRST!!!
+Q.  Why there is no exam in the evaluation process?
+A.I think it's the combination of two factors:
+previous experience proved that participation is better predictor of success in the full Nanodegree than exam
+the sponsors (Microsoft) recommendation
+Q.  scholars are providing unclear responses just because they feel the need to participate/respond more. How can we encourage more thoughtful participation and only responding when you really have something valuable to add?
+A.Hi  AB! Know that in addition to providing a workspace so you can meet one of the selection criteria that another huge reason is to build a community that will help you finish this course and give you the emotional and motivational support you need  We are grateful students are being polite and welcoming by using thank you and hello!
+Q.I just got an email regarding a #30days in Udacity rather than 50 days, is this by mistake? Or is it related to other Udacity programs?
+A. Alsubait It seems that you are a part of other Udacity Nanodegree programs as well. You would have received it in relation to those! 
+
+Q. Can we post about other courses we are doing in #50daysofudacity channel?
+A.  Kumar  Le
+As long as you are still working on the foundation course we recommend you to base your #50daysofudacity posts on the foundation course topics only!
+But once you have completed the coursework, you can go ahead and indulge in more courses from Udacity which are related to the foundation course and post about them in the #50daysofudacity Channel!
+
+Q.How can I arrange a webinar at the zoom and how would it be monitored by you ?
+A.Hi  Gharib! If you have your webinar topic and presentation completed just fill out the form under #community_ideas to let Palak know! Thanks!
+
+Q. What's the importance of LinkedIn updates w.r.t 50dayschallenge and selection for phase 2?
+A.Hi  Venkatesh The posts you may be seeing on Linkedin may be students posting that they were accepted to this Scholarship Challenge!
+Q.Is there any trigger for the red light?
+A.Hi  M. Hasan Normally it’s because   and I have fallen behind in answering questions and need time to catch up!
+
+Tuesday, July 14  9 PM PDT | Wednesday, July 15, 9:30 AM  IST
+Q. When will the student leaders be announced?
+A.  Kumar Monday, 20th July!
+
+Q. If someone asks a question outside of AMA time, is it okay to answer it and gently let them know to use the other channels? or should we direct them to the right channel and not answer here?
+A. Hi 's Web Presence! You’re more than welcome to answer questions here outside of AMAs :slightly_smiling_face: Gently guiding students to use the appropriate channels after answering their questions is a great practice!
+
+Q. Woah! Its 5:00AM here I wonder how many people will be able to attend.
+A.  Hey! Do check the AMA Schedule to find out a friendly time for you!
+
+Q. Criteria for selecting student leader
+A. _Azeem
+Hey! The Student Leaders will be selected solely on the basis of the applications submitted for the role
+
+Q. How to know if the suggestion for groups we have has been accepted or not?
+A. Hi  Kashyap! Study Groups haven’t been launched yet, but if you were talking about requested Slack channels Palak will create your channel and invite you into it, if approved :slightly_smiling_face:
+
+Q. Can you please explain the purpose of the #ml_daily channel and how it is different from other channels?
+A.  Alsubait
+#ml_daily is about sharing the recent news or events or say trends in the world of ML. It can be about the commercial use of ML or any groundbreaking research etc.
+
+Q. Where can we find more information on the responsibilities of student leaders?
+A. Hi  Chen! Please take a look into the link  graciously shared :slightly_smiling_face: When Student Leaders are selected, they’ll receive a handbook that goes in depth about responsibilities!
+Link: https://sites.google.com/udacity.com/microsoftazurechallenge/community/student-leaders
+
+Q. Labs are taking long time to complete, is there any issue from the Azure side?
+A.  Kumar If you do not find your issue catered in the Lab FAQs, please do write to our lab support team (in the format given in the last question of the FAQs)!
+https://sites.google.com/udacity.com/microsoftazurechallenge/overview/faqs?authuser=1#h.p_MG8fbDID0Eim
+
+Q. Could you please tell me how to create study groups?
+A.  Kumari A little more wait and you will get to know in the #announcements on how to create a Study Group! :slightly_smiling_face:
+
+Q. What will be the responsibility of a student leader?
+A. When Student Leaders are selected, they’ll receive a handbook that goes in depth about responsibilities! Only those leading technical channels are required to have technical experience!
+
+Q. On what criteria will study groups be formed? Like how students would be selected ?
+A. Hi , there’s no criteria! Those who request a Study Group channel will receive one :slightly_smiling_face:
+
+Q. Will we have access to the slack channel in the second phase?
+A. Hi , those who move onto the second phase will have access to Udacity’s internal community platform: Student Hub!
+
+Q. Do you have any plan to arrange any career advice webinars or career advice ama sessions?
+A.  Ahmed
+Hey! You can always reach out to your peers who have more experience in the professional world to help organising say Career based AMA Session or simply to help you with your question.
+
+Q. Can you explain more on community participation as a criteria? Thank you
+A.  Sarku
+Hey! So largely we are looking at three different things when it comes to Community Participation:
+Participation in Community Initiatives coming from the Udacity Team
+Slack Contributions
+Student Initiatives
+To get a detailed insight into this, consider going through the Orientation Session recording or slides that are both available HERE.
+Link: https://sites.google.com/udacity.com/microsoftazurechallenge/home?authuser=1#h.p_O6o_Yvu-2V2i
+
+Q. At the second phase are there amas?
+A.  I believe our sister community team  on Student Hub hosts AMAs every week as well!
+
+Q. Hi,   Is this the only chance we have to apply for student leader or will we have a chance later to apply?
+A.  Prasanth SM As we create new channels, there will be some more Student Leader opportunities opening up in the future! :slightly_smiling_face:
+
+Q. Does student leaders have direct interactions with community managers(Udacity team)?
+A.  Kumar There will be a private channel for the Student Leaders through which they will receive their assignments, connect with each other, plan things and also connect with the CM!
+
+Q. How much time commitment is expected from learners in phase 2?
+A. Hi , a good rule of thumb is 10-15 hours per week, just like _628 suggests!
+
+Q. On what basis student leaders are selected? Is it only on the basis of the forms that we need to fill or there are some other criterias?
+A.  Acharya They are selected on the basis of the applications submitted
+
+Q. Hello. How much time would a student leader need to commit in a day 
+A.  Kumar Mohan There is no fixed number of hours as such but when you fill the application form, you will get to fill your approximate availability. This allows us to choose the combination of leaders in a way that there is a good presence of the leaders in the workspace. :slightly_smiling_face:
+
+Q. Will the participants in student group be count as a participant in scholarship slack channel? 
+A. Hi  tawfik, yes! We have visibility to what goes on in the Study Groups since it’ll be public channels. If you’re active in a Study Group, it’ll definitely count towards participation!
+
+Q. What if we will be selected for second phase , but we do not submit on time all the projects?
+A.  In that case, you won’t be able to graduate from the nanodegree. Also, the deadlines for Phase 2 as well will be clearly decided and you won’t be able to get an extension on that. That said, if you make a schedule and plan things then in the 4 months of time you will be able to graduate from the nanodegree at a comfortable pace.
+
+Q. Hi  and ! What makes one a good student leader?
+A. Hi , we’re looking for leaders with big hearts and a passion to lead the community! We also want our Student Leaders to come with fresh ideas for potential initiatives!
+
+Q. By default I am added to so many channels.How to track posts on topics I am interested in? So that I do not miss anything .Any suggestions?
+A. Hi  Chadha, just like everyone said, only stick to a few channels! If you try to track every channel, it will be overwhelming and difficult to  participate meaningfully! Start with a channel that is interesting to you and #announcements so you don’t miss any big events!
+
+Q. Is it like Student leader will selected directly to phase 2?  Or being given more priority for phase 2?   
+A.  Hey Riya! No that’s not the case. Being a student leader is ‘one’ of the opportunities to contribute more to the community! :slightly_smiling_face:
+
+Q. How to be part of student groups. Do we need to know all the people in the group to be associated to the group?
+A. Hi  Gupta, Palak will post all the details about this program today!
+
+Q. Do you still need volunteers to transcribe AMA Sessions? If so, how does that process work? Thank you!
+A.  Ann Drury Hey Rachel! We had some of the students who volunteered for transcribing the sessions. Like this session is being transcribed by a group of 3 scholars.
+I add the volunteers to a group and then they mutually decide how they will cover the sessions!
+Will add you as a volunteer for our upcoming AMA Sessions! :slightly_smiling_face:
+
+Q. What are the qualities of good student leader,I mean if selected what in your experience makes them help and engage more other students?
+A. Hi  Cavalcanti!  Nurkayeva listed some great traits! I also wanted to add on to that and say, in my opinion, the best Student Leaders not only wanted to be helpful but had a genuine desire to get to know their peers. I think it really boosted morale for the community to have someone who was a true friend and advocate for them :heart:
+
+Q. Would Udacity ever considering creating a podcast?
+A.  Garcia I am not sure of whether we will be coming up with a podcast in near future! That said, if you would like to please go ahead and create one for this community! 
+
+Q. How about if student failed to encourege its member to attend video confetence?
+A.  RS Taking and implementing on feedback works best! Making it more relevant, accessible and letting know others of the schedule well ahead in time would also help! :slightly_smiling_face:
+A. Hi  RS, the great thing about being a Student Leader is that you’ll have access to a whole micro-community of leaders that you can collaborate and bounce ideas off of! If you’re having trouble engaging students, I’m sure your co-leaders can help and brainstorm :slightly_smiling_face:
+
+Q. Will the students groups be formed on the basis of time zones/countries.
+A.  The Study Groups can be based on different things: locations and timezone ofocurse , academic or professional interests say a study group for students interested in exploring ML in Healthcare or any other common denominator! :slightly_smiling_face:
+
+Q. Hi  i feel there is more social engagement over slack or  social networks than sharing the right information or working together on learning more, better to streamline the channels here for the learning purpose only.
+A.  Kumar Jha
+Hey Abhishek! The scholars have not been in the community for long now and it does take sometime to get to know each other.
+Also for course specific discussions you can always jump to #tech_help or any of the lesson channels! :slightly_smiling_face:
+
+Q. How many student leaders will be accepted? Thank you in advance :blush:
+A. Hi  Nicole Warintarawet, in depends per channel, but 6 would be the max number of leaders we would have per channel!
+
+Q. When we can come to know whether we have selected for phase 2 or not? Any specific timeline, after completion of the course.
+A.  Kumar Palit Hey! You will get to know about the results for Phase 2, nearly 10 -15 days after the Phase 1 deadline that is Sept 10th!
+
+Q. Do I have any benefits being as a student group leader in future? Like for ML nano degree
+A. Hi  Lavanya, the Student Leader program only exists in this Slack workspace, I don’t think it will hold weight outside of this community. But you’ll learn lots of soft skills that you can take everywhere!
+
+Q. How often should student groups come up with group activities or online meetups to remain an active group?
+A.  Zahid To start with, we would suggest all the study groups to define a purpose and a timeline for realising that purpose. Then depending on that, they can organise activities and meetups and decide the frequency of such things.
+There is no definite no. of events that lets a group qualify as an active group. Rather an active group would be where through such activities and other discussions, all the members of the group are kept engaged! :slightly_smiling_face:
+
+Q.   You mentioned checking the ama schedule to find out a friendly time for amal sessions,  if we're to go by that its possible to miss ama sessions.
+Does absence not matter?
+A.  OREJAH Hey! So it is not mandatory to attend the AMA Sessions but it is a good way to ask questions and answer questions from your peers.
+But,  if none of the timings seem convenient to you please feel free to drop any questions that you have in this channel and request your peers to ask them on your behalf during the session! :slightly_smiling_face:
+
+Q. is there any suggested way of keeping the posts that we do in #50daysofudacity as the messages will disappear after 10k limit?!
+A. Hi  B J! I’ve heard posts you bookmark and save bypass the 10k message limit, but I’m not totally sure. Give it a try!
+
+Q. A question says are you leader earlier in student leader application. Is it mandatory to be a leader earlier. I am thinking to start off my leadership journey through this program .kindly advise me. 
+A.  Cheetirala It is absolutely not required for you to have had the leadership roles before. We are always looking for new leaders!
+The questions just helps is knowing more about you and incase you have had the experience before! :slightly_smiling_face:
+
+Q.    thanks for hosting another AMA so soon. Appreciate it. So this might be a bit of a weird question - can we be a part of more than one study group? Idea behind
+ this is since there is a limitation of 9 persons (I think) in a group and being part of more than one group might give diverse opinion. Thanks in advance.
+A.  Valeti Hey! So first of all there is no limitation of the study groups to be limited to 9 people. The group DMs were just a suggested way to take your group discussions ahead till the time the Study Groups are launched!
+And yes, you can definitely be part of more than one study groups! :slightly_smiling_face:
+
+Q. How can we manage to follow all the channels you guys are provided and study group as well
+A. Hi  Maurya, just like your peers suggest just stick to a few channels that are interesting to you and #announcements so you don’t miss anything! We don’t expect you to track every channel!!
+
+Q. What is the best way to save our imp points from the course . Apart from maintaining the notes . Is there any method which anyone is following??
+A. Hi  Durga Barnala! This might also be a great question to ask your peers in the #tech_help channels as well!
+
+Q. Just asking out of curiosity, why the previous AMAs are named 'Introductory AMAs' and the ones gonna happen from now are named 'Weekly AMAs', basically both are going to be same right ? Or is there any difference? (edited) 
+A.  Hey! The format more or less will remain same. Just that we schedule more frequent AMAs in the starting week and rope in more of our team to help with the questions coming in as the volume of questions you might have noticed is huge at the beginning! :slightly_smiling_face:
+
+Q. Will there be technical AMAs?
+A. Hi ! In past scholarships, we’ve had students host their own Technical AMAs! Technical Leaders may also host their own AMAs/office hours within the #tech_help channel 
+
+Q. I am really thankful for this opportunity to take this course and it is nice to see all. A bit off question-  what was the acceptance rate of this program?
+A.  Hey! We actually won’t be able to tell you  the exact numbers but rest assured that this pool of scholars got through a very competitive and LARGE pool of applicants!
+
+Q. Is this 10000 limit for each channel or for the complete workspace  ?
+A.  Yes, it's for the complete workspace
+
+Q. Hi ,  I started Day 1 and Day 2 of #50daysofudacity challenge before taking the pledge. However, I have taken the pledge now. Will it be a problem?
+A. Hi  Malik! We’ll add your name to the  Honors wall once you’ve completed the challenge:raised_hands:
+
+Q. I'm really interested in student leader post. I will put my dedicated hours in the slack. After filling the form what is the process to follow?
+A. Hi  Durga Barnala! Once the application period closes this Friday, we’ll select Student Leaders and then announce the selections. The Students Leaders will be given their channel assignments and officially onboarded!
+
+Q. Hi  Even after successfully registering for the pledge, I could not locate my name on Honors wall. (edited)
+A. Hi ! i’m afraid your name will not appear on the Honors wall until you’ve completed the Challenge.  Hope that helps!
+A.  Hey!  I guess she was referring to the names of all the students who have taken the challenge!
+Minty I guess your name: Ayushi Kapil is already on the wall! Do have a look again! :slightly_smiling_face:
+https://sites.google.com/udacity.com/microsoftazurechallenge/community/50-days-of-udacity/honorable-mentions-wall
+
+
+
+
+Wednesday, July 15th, 2020 10:00 AM PDT | 10:30 PM IST 
+Q. is it possible to write up your own algorithm for use on the Azure ML portal?
+A.  Can you may be gather more insights on this using the #tech_help channel?
+
+Q. Hello  , are we supposed to update our daily progress in #50daysofudacity  channel
+A. Hi  Kumar Jha! You can find more details here :slightly_smiling_face: https://sites.google.com/udacity.com/microsoftazurechallenge/community/50-days-of-udacity
+
+Q. I know that the leaders will be give instructions of what their duties are, but can you give a brief explanation of that it is expected from a leader? Is it like a forum moderator? thanks
+A.  Hey! They are yes, kind of moderators for the channels. They will help the channel and in general the community to grow by creating engaging activities for the channel, facilitating discussions there and also helping other community members with their initiatives!
+
+Q. Hi 
+What is the criteria for the group leader selection?
+Are the previous scholars of Udacity get more benefits for the leader selection?
+A.  Singh Scroll to see the question being answered by Brenda! To add no there is no added benefit for having lead such an experience in previous scholarship!
+
+Q. Will we get any certificate for this foundation course?
+A. Hi  Das! While there won’t be a certificate (we reserve those for our ND program) or a digital badge, we will share language you can use to update your Linkedin account!
+
+Q. At what basis do you select student leaders from the applications?
+A.  Prasanth SM Hey! The question has been covered! Scroll a bit up and you will find your answer!  (edited)
+
+Q. In in phase2 ND also the labs integrated into Udacity?
+A.
+ Kumar Most likely they will be but with the course in development stage now, we do not have a confirmation on this!
+
+
+Q.  how many channel moderator are required per channel
+A. Hi  Peters! We normally pick 2-3 Student Leaders for our non-technical channels and sometimes double that for our tech channels like #tech_help and the lesson channels. Hope that helps!
+
+Q.  there is a mention of form after completion of #50daysofudacity challenge. Do we need to keep some tab on our daily progress out of the channel as well? Are we required to update it in the form Or something?
+A.  Hey! No you are not required to keep a tab of your daily progress outside the channel but if you would like to do so (for your reference) you can do that!
+You won’t be required to update that in the form!
+
+Q.  I saw somewhere that there are 10000 students in phase 1 and only 300 will move to phase 2. What is the selection criteria for this?
+A.  Kumar Gupta Have a look at the FAQs and you will find your detailed answer there! 
+
+Q. If I do 30 minutes of other course in Udacity it is valid for 50 days for Udacity?
+A. Hi  Rojas V! We do wish that students spend their 30 minutes on their Foundations Coursework as completing your coursework is indeed a requirement to be eligible for Phase 2! That said, if you have completed  of your coursework you may you the 30 minutes on something related to this program. Thanks!
+
+Q. Can anyone explain me what to do with #50 days challenge
+Q. Hi ! There’s almost always a dedicated page on our Google site for every initiative. Here’s the one for 50 Days  https://sites.google.com/udacity.com/microsoftazurechallenge/community/50-days-of-udacity
+
+Q. How are study groups created?on what basis?
+A.  Das The study groups can be based on any denominators say location, timezone, academic or project based interest eg. a study group for students interested in exploring ML applications in healthcare!
+
+Q.   hi! As we can select at most 3 channels to be student leader, what will happen if some are oversubscribed and some under (eg no one chooses a particular channel to lead)
+A. Hi  AB! We will be in constant contact with the selected student leaders to see if more assistance is needed and then we’ll definitely add more if need be! We’ve done this for years and have seen that 2-3 for non technical channels and twice that for the #tech_help channel is about the right amount. That said, as Palak creates more channels from the channel request form, she’ll need students to help with those channels as well!
+
+Q. On what basis our applications for student leaders will be evaluated?
+A. Your passion and willingness for leading your fellow peers as well as your ideas for engaging students (edited)
+A. Also how much time you have that allows you to contribute to the community matters.
+
+Q.   In all these courses you can just let the video run, and keep checking answers till you get the right one. How are you gauging if we are actually engaged in all the course material?
+A. Hi ! If any student is just letting the video run then I’m afraid they are doing themselves a huge disservice as the foundational skills you learn in Phase 1 are truly needed in order to graduate in Phase 2!!!
+
+Q. My name appear on honorable mentions wall (for #50daysofudacity ) twice, is that okay?
+A.  If you have filled the form and agreed to displaying your name on the wall, you name is instantly added to the wall! J. You might have filled the form twice and therefore this! Can you reach out me in DM and we will look into the duplicate entry!
+
+Q. How would a typical day for the student leaders be like.
+A. Hi _Azeem!  was a previous students leader and knows what she speaks! that said, if you find you may be too busy then perhaps  instead consider other ways of contributing that might be a better fit for your schedule! we are open to all ideas! 
+A. There’ll be a considerable amount of time spent in Slack. You’ll also collaborate with other student leaders to come up with initiatives to help fellow scholars to successfully complete the course. 
+
+Q.  Is it mandatory to be part of study group in order to be students leader?
+A. Hi ! Study Group Organizers (those who create study groups) are different than Student Leaders (those who manage our slack channels) so no need to be part of both!
+
+Q. Posting my query again. As I didn’t notice the red light earlier.Hey  &  is regarding how are you guys going to assign weightage to the questions or answers posted by the students of this course and most important who will evaluate the quality vs quantity quotient, will there be any bot  for analysing the comments and other activities such as emoticon posting.And how many points are given for emoticon posting as compared to a full fledged query.Just want to make sure that I don’t miss/loose any chance to be in next round. (edited)
+A.
+ Hey! So we won’t be able to share the criteria with you but please be assured that the quality vs quantity of contributions are taken care of!
+What we are looking for:Genuine, consistent, and meaningful Slack activity!
+    • Think ‘QUALITY’ over ‘QUANTITY’
+    • Hello posts won’t count
+    • Make sure your posts add to the discussion at hand!
+    • No spamming!
+
+Q. Are there any member number requirements or restrictions for study groups?
+A.  Losch  There are absolutely no restrictions with the no. of members that you can have in your study groups!Once a slack channel for your study group is created, it will be public and will be easily accessible for anyone to join.We had suggested the use of Group DMs (which have an inherent limit of 9 members) only so that your discussions do not stall until the Study Groups are released.
+
+Q. Can we have this slack workspace live even after foundation course is finished?The workspace is turning out into a great valuable resource given the great question and answers discussion happening particularly in lesson channels.
+A. Hi  Kopparthi We promise to give you advance notice before we close this workspace for good!  That said, it’s always a good idea to save special conversations and resources in a separate doc as you go along knowing this! (edited)
+
+Q. When requesting for a new channel you have the option to apply to be channel moderator. Can there be more then one moderator and how do you ask for that ?
+A. Hi  Fridström! If your request is made into a channel, we’ll normally have 2 others to assist if you’ve said you can be a moderator. If you’d like to ask for a particular student you can let  know!
+
+Q. Can we add karma bot to slack to give points to others for their learning achievements?
+A.  Quijano We will definitely review the app and see if it can be integrated
+
+Q. I would like to know if we will have the opportunity to have a zoom meeting in the futur with ML Microsoft team to share with us their experience!!!
+A.  Hey! We are working on this and most likely you will the opportunity! 
+A. Hi  We can’t promise anything right now - wait and see!
+
+Q. Student initiatives: I see some people are already starting events in channels. Is it ok to start something, or does a form need to be filled out?
+A. Hi  Losch If you’ve come up with a cool initiative that will benefit your classmates and this community  please let us know but submitting the form posted in the #community_ideas channel! Thanks so much!
+
+Q.   , i have filled up the form on 14th july 8pm for #50daysofudacity but mistakenly posted in the channel at 12:15 am 15th july , so did i miss one day ?
+A. Hi  Ahmed No worries! You are totally fine as is!
+
+Q. Further to  Ahmed question, does the "tracking mechanism" account for timezones; i.e. what constitutes a day?
+A.
+Hi  Could you do me a favor and post the link to Sayed’s original question? Thanks so much!
+
+Q.   I'm  actively participating in mostly 3-4 groups. Will it reduce my chances in going into 2 phase of Nanodegree?
+A. They did address that it might be hard to keep up with all channels so stick the ones you are comfortable with. So if you feel lesson 2 3 or 4 is what you can help others with; just do that!
+Remember Quality is what matters; your help in the community is important!
+
+Q. Time in slack, read amas, transcripts, external links etc counts also for 30 min  per day?
+A.
+Hi  For the 50 Days challenge, we are asking that those 30 minutes are spent on your Foundations coursework first and foremost! If you happen to finish before the 50 days then related coursework is accepted - but Slack participation and reading transcripts does not count. Hope this helps!
+
+Q. What are the skills i need to have while applying to be a leader for the the tech channel?
+A.  Hey Loise! We are looking for students who are eager to help build this community with their time and ideas! There is no experience required as such only that we will prefer you have some prior technical knowledge ‘if’ you are applying for the role of Tech Leaders! 
+
+Q. When the day start and ends in 50 day’s Udacity challenge?
+A.  Essam For everyone, the day can be taken into account as per their own timezone!
+
+Q.  what is the criteria for student leader
+No experience is required. You should have passion to help and lead your fellow peers.
+As a Channel or Technical Leader in Phase 1, you will serve your classmates by going above and beyond - providing outstanding technical and moral support both informally and during organized events (e.g. AMA sessions) and leading programs that foster community and drive students to complete their Challenge program.
+The Student Leader program is open to ALL students with big hearts, great ideas, and a willingness to get involved. No previous experience is required - this role is completely voluntary. We're really looking for students who have the time to devote to role and the passion, kindness, patience, and generosity to help their fellow students. We are also looking for students with determination and drive who are not afraid to try new things! We'll be fulfilling both technical and nontechnical spots so a ML background is not a requirement.
+
+Q. One of my lessons says 97% complete even though I have finished all the labs and quizzes. How do I find out what is incomplete?
+You have to do a manual check. Check for a tick mark against all concepts
+
+Q. If I finish all course materials before 50dayschallenge should I rewatch course materials to complete the 50 days challenge?
+ Haque ask yourself what your objective is for completing the course. 1. you should have many questions about the material while going through the lessons. 2. after answering those questions how can you apply what you learned to solving problems. 3. work with the this community to solve those problems and work toward your objective (the thing you want to achieve after completing the nanodegree)
+
+Q.  is student leader will be sure to select for phase 2?
+no there is no such guarantee. For phase 2 selection there are two criterias: 1) Course completion 2) Slack participation
+
+Q. Hi, i would like to know, is there a project for this course? Or we only need to review the course materials? How you measure us for the next step?
+No projects for the foundation course
+And the criteria for selection onto round two are course completion, community participation and your scholarship application
+
+Q. , ,  should we use the datasets provided by you in labs or can we experiment with other open source datasets as well in Azure ML labs?
+You can experiment with other source datasets as well
+
+Q  How does one join a study group?
+ when they are announced, there will be a channel for each group, you can just press "join channel"
+
+Q.   - Most of the sessions like this AMA session is during US working hours. I know we have people around the globe but since participating in these sessions will be accounted for during selection of 300 out of the group, can you kindly suggest what should be the approach? Most of the time we are working and in meetings so miss these sessions.
+AMA sessions are not mandatory to attend. You  need to keep an eye for any important information on the slack.
+
+Q.   hi! As we can select at most 3 channels to be student leader, what will happen if some are oversubscribed and some under (eg no one chooses a particular channel to lead)
+Hi  AB! We will be in constant contact with the selected student leaders to see if more assistance is needed and then we'll definitely add more if need be! We've done this for years and have seen that 2-3 for non technical channels and twice that for the #tech_help channel is about the right amount. That said, as Palak creates more channels from the channel request form, she'll need students to help with those channels as well!
+
+Q.   I have completed the labs until lesson 3 so far. The azure ml platform takes an awfully long time to load and is pretty slow(even the running time, an issue all of us are facing). I understand that there are certain problems as its running on a virtual machine platform. But can anything be done to speed it up?
+Hi  Kumar, true. We all experience performance issue. And it is the same with all Azure subscriptions due to priority given to certain customers regarding their importance (health services, research labs...) during actual global events. Most of services are not affected and we use AZ  infrastructure for practice only, hence lower priority... but it is still some priority 
+
+Q. If I struggle with the labs and am not able to run it, will it be counted as if I didn't achieve all the materials and will not be elligible for phase 2 ?
+Yes! Try to finish the lab as it makes it much easier for you to move on and understand better. You could restart and try to finish it again. Moreover usually the labs are completed within 50% of time and they do provide extra time in case you are struggling. I suggest you to highly reach out in those lesson channels where you might need help!
+
+Q.   on the student leader application form, how long should the answer to why we want to be a student leader be? The more the better, eg details as to why we're suited to a particular channel?
+Your answer should address the question in brief and should be readable. (For example, use precise points when suited). Length of the answer is not really a reliable parameter. But obviously it needs to be something more than 1-2 lines, there should be some thought behind answering.
+
+Q. Hello! Will study group slack channels be public/ anyone can join once created? Will they have a leader?
+Once they announce all the group channels are uploaded on google site you are free to join any group of interest  AB 
+
+
+Q. How can we check whether or not we have successfully achieved the purpose of lab? Are you only tracking the hours spent  on lab session?
+If you followed every step and all the steps are successfully ran  then you are good to go time tracking might not be possible as some people might finish earlier 
+
+Q. which all channels can we pick for becoming student leaders?
+You can choose any 3 channels of your choiceQ. what proportion of the students selected for scholarship were student leaders?
+Max 6 for each group, can be increase as per need in futureQ. How do I know whether I completed the lab fully  or not?
+There is no indication like 100% done or task achieved. You have to focus on the tasks given in the lab guide(on the right-hand side) and ensure that you have achieved them all.
+
+Q. If the Course is completed before 50 days of udacity program. Do I need to take free courses from Udacity platfrom only or they can be from other platfroms as well that i can post as a progress under this activity?
+If it's related to ml, then it will be counted
+
+Q. Can we take 1 to 2 days weekly break in 50 days challenge?
+Skipping: You are allowed one skip day every two weeks, however you may not skip two days in a row. You will not count the day you skipped once you resume. If more than one day is skipped consecutively, you must start again from D1 (Day 1)
+
+Q. Are there any member number requirements or restrictions for study groups?
+ Losch  There are absolutely no restrictions with the no. of members that you can have in your study groups!
+Once a slack channel for your study group is created, it will be public and will be easily accessible for anyone to join.
+We had suggested the use of Group DMs (which have an inherent limit of 9 members) only so that your discussions do not stall until the Study Groups are released.
+
+Q. How are study groups created?on what basis?
+ Das The study groups can be based on any denominators say location, timezone, academic or project based interest eg. a study group for students interested in exploring ML applications in healthcare!
+Q. Posting my query again. As I didn't notice the red light earlier. Hey  &   This is regarding how are you guys going to assign weightage to the questions or answers posted by the students of this course and most important who will evaluate the quality vs quantity quotient, will there be any bot  for analysing the comments and other activities such as emoticon posting. And how many points are given for emoticon posting as compared to a full fledged query. Just want to make sure that I don't miss/loose any chance to be in next round.
+From my past experience of securing second phase in Udacity nanodegree, unnecessary hi, hello, emotions, redundant spam answers are not considered. If you really want to participate share your knowledge with others by solving their doubts, help them to complete the assignments, to fix technical issues, share if you find something useful in the course.
+
+Q.    Can we have live sessions on Labs as some of us have doubts regarding the same?
+ Ann Augustine You can always ask the community members if anyone of the members with hands-on experience with the tool would like to take a webinar or AMA session for the same! 
+
+Q.   Is it necessary to join any study group? like we are helping each other here only and most of from us already joined by slack only or by other platforms so  how much important to join study group ?
+Hi  Sharma! Joining a study group is completely optional! Please do what works best for you but make sure you are participating in this community some other way! 
+Q. if we do extra projects with the leftover time, after the lessons are all completed, where and how should we do these such that they are noticed and considered for the scholarship?
+You can share about them in #50daysofudacity as part of your daily progress after you have completed your course
+
+Q. How to close azure workshop lab? I mean i built the model,evaulate and visulate it. Thx
+Hi  Dalkılıç The #lab_help channel is a great place for this!
+
+Q.Will there be student leaders for phase2 as well?
+A..Hi  Kumar! I believe our B2C sister team may be starting a version of a Student Leader program. We’ll have to see!
+Q.Hello  , can you elaborate on the criteria to select the student and channel leaders? Some hints for those of us who want to get the role?Thank you! 
+A.Thanks for the assist ! Hi  to elaborate, we’re really looking for students who have the time to devote to role and the passion, kindness, patience, and generosity to help their fellow students. We are also looking for students with determination and drive who are not afraid to try new things! We’ll be fulfilling both technical and nontechnical spots so a ML background is not a requirement. Hope this helps!
+Q.Will we get any certificate for this foundation course?
+A.Hi  Das! While there won’t be a certificate (we reserve those for our ND program) or a digital badge, we will share language you can use to update your Linkedin account!
+Q. is there a way of tracking if l have spent 30 minutes or more in the classroom?
+A.Hi ! We are asking each student to take accountability for meeting & tracking your 30 minutes every day! 
+Q. and    does enrolling for student leadership program increase the chances of selection for phase 2?
+A.No, but as a student leader, you will be interacting more and being more active on the slack community, which in turn increases your chances of being selected!
+Q. There are quite a few errors in the lab instructions during the lab sessions, how does one go about working on these if the instructions itself are wrong?
+A.Hi ! Please see our Resources page for the FAQ sheet on how to troubleshoot & report lab issues! Thanks! https://sites.google.com/udacity.com/microsoftazurechallenge/resources
+Q.What will the student leader do?? 
+A.Thanks for the assist, everyone! I will also ask  to outline the duties a bit more under the FAQ section on the Student Leaders page! https://sites.google.com/udacity.com/microsoftazurechallenge/community/student-leaders (edited) 
+Q.We have submitted a request for a community idea. What is the timeline on processing that from your end? Will you be reaching out to us to discuss the logistics we have planned?
+A.Hi  Sankaranarayanan! Thanks for submitting your idea! The form is more to keep  informed on your initiative and launch date -  I’d followup with Palak directly if you need extra support from her 
+Q.Yes I have a doubt how 300 people will be selected as most of the people would be participating min 30 min everyday. Does it meant people who are spending more than 30 min will be given priority?     
+A.
+Q.Do student leaders have more chances to be accepted for the nanodegree program?
+A.No. Their roles just count towards participation.
+Q. what are the requirements for getting selected to next phase??
+A.Hi _Sharma! I highly recommend watching our Orientation recording as we go into detail on this as well! https://sites.google.com/udacity.com/microsoftazurechallenge/home
+Q.  the channel request gets approval?
+A.Hi  B S!  will be going through the Slack channel requests on a weekly basis and she’ll post an announcement on the requests that have been turned into channels. Hope this helps!
+Q. how  we can increase our chance to be selected to the next phase please?
+A. 1. Complete foundation course with all quizzes and the links and if any survey forms are available fill it.
+2. Complete chapter sequence wise , don't jump topics according to your choice on Udacity course.
+3. Slack participation is one of the criteria for selection in phase 2.
+4. Ask questions in AMA (Ask me Anything) channel when ur instructor will come live weekly one or twice.
+5. Take part in different activities/ study groups and conducting events.
+6. If you completing course also check Udacity course might be they will update later some topics.
+These are the simple steps to follow....  
+Q.   I wanted to know whether beginners would also be selected as student leaders of a channel or should they have good technical expertise
+A. Venkatesh Yes ofcourse!
+Q.How study groups will be weighted (either completion of course or any project they work on together or any different KPI?)  
+A.Hi  Saad Uddin! We are just looking for study groups to be active while working towards their individual group goals! We’ll share a handbook to help you figure out what your goals are as a group when we launch the program!
+Q.I had requested for new channel #statistics. Please review and approve
+A.Hi   Kunle Adedeji! If  decided to turn your Slack request into a channel, she’ll announce it. She reviews these once a week.
+
+Thursday, July 16, 9:00 PM PDT | Friday, July 17,  9:30 AM IST
+
+Q. The link to #50daysofudacity pledge is not going through. Any one facing similar challenge?
+A.  Sunday You mean the form link? I will check that, meanwhile you can use this: https://forms.gle/VPnWMdnauQgZukZp8
+
+Q. Out of 10,000 selected members, why only half of them are present/active on slack?
+A.  Kopparthi Hey!
+Since the past scholarships we have observed that it takes 2-3 weeks for people to join the workspace (actually to open the result email!) 
+
+Q. Hi, about the language used in study groups, should it be in english only or there is not restriction in participation evaluation for using other languages? (edited)
+A.  Rivera If everyone in your  study group is comfortable using the language or may be your group is based on that then you can use other languages but in that case you will have to send us fortnightly summaries of the study group updates to help us understand your study group activities! 
+
+Q. The study group directory doesn’t load on the website. I receive an error that the connection is timed out. Is there a second link we can access? How do you evaluate participation in study groups?
+A.  Hey! I would suggest trying to leave the page open for a while. The directory will then appear, it does takes some time to load. Or you can try accessing it here
+A.  Do go through the Study Group Handbook to get a gist of how the Study Groups will be evaluated! 
+
+Q. will there be coding in phase 2?
+A.  Tepper Hey! Not sure about this, will get back to you on this after asking the team! 
+
+Q. Are there any restrictions for the creation of a Study Group to prepare for Microsoft Artificial Intelligence (AI-100) and Data Science certification(DS-100)?
+A.  Furtado Nope! 
+But as  Van mentioned you can head to #azure_certifications if you are interested in getting them! 
+
+Q. I already create study group but still no joint button. Is there something wrong? Thank you
+A.  RS Hey! It can take upto 48 hours for your Slack Channel to be created so you will have to wait a bit! Most likely all the study groups will have their channels by today eod! 
+
+Q. How do we know the lab has been completed?
+A.  Hey! There has been a discussion going on this already in #tech_help & #lab_help! Try going through them! 
+
+Q. Will we get charged if we use Microsoft Azure to practice the lab questions (out of udacity)?
+A. What you can do is open the lab through udacity, get the login credentials for azure and then open Microsoft azure from your pc... use the credential and then practice.. will improve your experience to a great extent. 🙂
+
+Q. I had taken the #50daysofudacity pledge but my name is not on the honorable wall.
+A.  AnushaHey! If you have filled the #50daysofudacity Pledge form and had ticked the ‘Yes’ option to displaying your name on the wall, then your ‘Slack Display Name’ will be added instantly on the wall.Please check thouroughly and you will find your name on the wall.  DM me if you do not find it even after that ‘BEFORE’ filling the form again!
+
+Q. Can we join more than 1 study groups?
+A. Hi  Sharma! While there is no limit to the number of study groups you can join, we do want to impress that your group members will be counting on you to be a vital participant so be careful of stretching yourself too thin! 
+
+Q. Any discount for people not selected for Phase 2 ?
+A. Hi  Berrio! While we don’t have plans to offer a discount to our Phase 1 students, keep your eye out as Udacity does run promotions quite frequently!
+
+Q. What has been the biggest challenge thus far as a community manager when getting this whole system setup for 1000 unique users?
+A.  Oh yes! Reading through and answering questions in The AMA Sessions has sure been one difficult task! 
+
+Q. What is the main objective of Study Smarts Week?
+A. Hi  M. Hasan! Study Smarts week is devoted to us sharing tips and tricks to help you develop good study habits! Our hope is that you walk away with at least 1 useful bit of applicable advice! 
+
+Q.  Hi   , hope you're all doing well. Just checking back in to know when the results for the student leaders will be announced. Other than that, I've been creating a list of summer school sources that I'm taking up and I'm sure others would be interested as well. Would it be applicable to share it since it would mean spending extra time away from the main Udacity course? As always, willing to help and assit.
+A.  Singh Hey! As is mentioned in the Calendar, we will be announcing the Student Leader results on July 20th, Monday.Also, please go ahead and share the list with others in the community!
+
+Q. How much money do I have to pay to complete phase 2, if i'm not selected? (edited)
+A. Hi  Berrio! It’s roughly $350-400  a month for one of our Nanodegree programs!
+A. And Phase 2 students will have 4 months to complete the program & graduate!
+
+Q. How do we know if the labs are completed when we exit out of them?
+A.  Zhou There is a detailed discussion going on this in #tech_help & #lab_help ! You can find more insights there!
+
+Q.   are there more study groups in coming days. I have made a request for one but can't see it in the list so criteria  for selection? (edited)
+A. _Azeem Please refresh the page once you have registered your group!
+The Study Group you have requested is visible in the directory.The JOIN button though will be added to it in another 24 hours! 
+
+Q. Any idea about the selection of the study group organizers. Do we all have to select one or those who filled the form will be the organizers themselves?
+A. Hi ! Most often the individual who starts the group ends up being the Organizer and main POC (point of contact) but if they don’t want to be then the members can help decide on who that person will be!
+
+Q. Hello, AMA, fro link : https://classroom.udacity.com/me
+, how do I find my the lab practical. really finding hard to get to that part . My browser just does not load that Lab session>
+A. Thanks for the help, everyone! Hi ! Feel free to pop into the #lab_help channel for lab assistance as well! This channel was added later so you’ll need to click Channels + in the left nav and search for the #lab_help channel to join it! 
+
+Q. Hello  the phase 1 of the scholarship focused mostly on using the Azure ML Designer. Are we expecting more coding focus solutions in the phase 2? (edited)
+A.  The Phase 2 nanodegree is brand new and still under development so we do not have a confirmation on this!
+
+Q. Is project important after we finish coursework? And how many members can work on one project?
+A. Hi  Durga Barnala! Searching for a study group who is going to work on a project is one way! Another way is to just ask if someone would like to partner with you in #tech_help !
+
+Q. Can this course help in preparing for  the Azure AI fundamental certification?
+A. Hi  ZAMAN I hear students in the #azure_certifications channel have discussed this!
+
+Q. Is there any penalty if we join multiple groups (to take note of various innovative activities groups undertake and be able do them even after course completion) but be active only in a few of them?
+A.  Kopparthi There is no penalty as such but it will hamper the efficiency of the group if there are many students who might not want to actively take part in it.
+Therefore we would suggest you to join the study groups that you can participate in!
+As for the viewing part, you can always view a channel without joining it! 
+
+Q. What will happen if we missed day in #50daysofudacity ?
+A. Hi  Adlan! You can find all the details shared here on the 50 Days page! https://sites.google.com/udacity.com/microsoftazurechallenge/community/50-days-of-udacity
+
+Q. Person with exactly same name in the slack .. will it affect selection process for phase 2
+A. Hi  Verma! We HIGHLY recommend finding a unique name!
+
+Q. Do we have to revisit all quizzes just in case some of them are reported to be faulty and get fixed later? I mean do we lose our progress if they get reset?
+A. Hi  D Auguste! We’ve had students accidentally miss answering one question on a quiz so always, always good to do that manual check as your classmates have suggested!
+
+Q. is there any place to submit a project for peer review from audacity?
+A.  D Auguste Hey! So there are no official projects in Phase 1 but you can always work upon a individual or group project and say get feedback on it by floating it in #project_ideas !In phase 2 there will be official projects but these will be reviewed by Udacity’s mentors &reviewers.
+
+Q. Is the scholarship is going to offer next year as well?
+A. Hi  M. Hasan! While hosting a second scholarship does depend on the partner, every student here can help influence that by completing their coursework as that signals to the partner that there is a high interest in this material and in moving on to Phase 2!
+
+Q.  would be interested to know in detail what is the selection criteria for the nanodegree AML program after the foundation course?
+A. Hi  Tan! Definitely watch our recording from Orientation as we go into depth on what Slack participation means! You can find that on our Google site here: https://bit.ly/microsoft-azure-challenge
+
+Q. Why don't you add slack channel names as well besides study group names in the google site page so that we can view the group channel and then decide whether to join or not?
+A.  Kopparthi Actually the JOIN button leads you to the Slack Channel for that Study Group and then you can view it to decide whether you want to join it or not because you will have to hit another ‘JOIN Channel’ button inside Slack to join it.But we will consider this suggestion, thank you for putting it forth! 
+
+Q. What was the criteria for Phase 1?
+A. Hi  Thong! Definitely check out our Orientation recording so you have a full understanding of the selection criteria - especially the Community Participation part! https://bit.ly/microsoft-azure-challenge
+
+Q. Hi what will differ between nanodegree program for ML and  scholarship nanodegree program for AML? Do their will coverage of Azure fundamental? if we are not able to make up for 2 phase, do it will ne available in catalog?   
+A. Hi ! As your classmates have mentioned, the nanodegree has not yet been launched so there is no syllabus to review. That said, from the Scholarships page, it has Phase 2 will “strengthen your machine learning skills by building sophisticated machine learning models, such as time series forecasting and hyper parameter tuning.” (edited)
+
+Q. If I post two status updates from 50daysudacity challenge unintentionally in the same day, with that effect any way negative?
+Didn't realize it's already past 12 and day changed. And I happen to work and post next updated for on the same day.
+A.  Shah That would be ohk! But what you can do is may be set up a reminder for a particular time everyday to prevent this!Try using Slackbot for setting up this reminder!  (edited)
+
+Q. Should I fill up form of #50daysofudacity again .. because there are two more person  having same name .. so should I change my slack name and then again fill the form???   
+A.  Verma If you are changing your Slack Display name then it would be better to fill the form again or reach out to me and I will change your Display Name in the form submission.
+A. Hi  Verma ! To add on to  Can’t say enough how important it is to have a unique Slack display name in this workspace as well!
+
+Q. Will the number of emojis that I use in each post/message/response be used as a key component for my selection into phase 2? Because if so then:
+A.  while i do love emojis  i’m afraid they’re not what we’re looking for when we say “quality” contribution 
+
+Q. How do I browse the study groups in mobile app. I see it only when I join any from my pc (edited)
+A. Hi _Azeem! As the table for the Study Groups Directory is quite wide, it might be better to browse all the groups listed from your PC instead of your phone!
+
+Q.  which  emoji you like the most ? maybe  using it can increase my chances
+A.  LOL this was the best question of the night!!
+A. too many favorites to count, i’m afraid!  
+
+Q. What is your favorite cloud platform: AWS/Azure/GCP/Other platform?
+A. A question more apt for #general_discussion !
+
+Q. Is it okay if we mention few people in daily streak on #50daysofudacity ? would that be counted as "encouragement"?
+A.  You actually do not need to mention anyone in your #50daysofudacity daily post!Encouragement is more recommended in the form of adding a positive and encouraging comment to a peer’s post or may be just adding a positive emoji to their post that will boost their confidence! 
+
+Q. How many student leaders will there be?
+A. Hi  Thong! Traditionally 2-3 Students Leaders are selected for the non-technical channels and sometimes double that for the technical ones.
+
+Q. Before the study groups I've made a request for channel which can organizea contest on writing articles. Will that be considered ??
+A.  Hey! The Channel requests are continuously reviewed to see more frequent requests.But you can always host this contest using other channels as well!
+
+Q. Is slack community participation present only in scholarship programs are in all Nanodegree programs as well?
+A. We have a sister Community team that manages Student Hub. Student Hub is the chat-like platform connected to your classroom that has channels like we do.
+A.
+It's is present only in scholarship but for nanodegree there is students hub
+
+
+Q. If I completed the course before completing the 50-day challenge, how should I proceed regarding participation in the channel? 
+A.
+ Furtado
+Hey! So you will have some extra time in hands which you can use to
+    1. Help your peers with their technical questions, may be even host an AMA or Webinar session. As teaching others is the best way to reinforce your learnings!
+    2. You can always work individually or with a group on a project based on the course work
+    3. You can continue to dive deeper into the topics covered in the course using more resources: books, courses etc!
+
+Q. Will there be slack channel created for phase 2 as well?
+A. Hi  Kopparthi When Phase 2 starts, we’ll turn you over to our sister team and you’ll have access to student hub which is the slack-like platform created by Udacity. There will not be a dedicated Slack workspace exclusively for Scholarship students like you have here, I’m afraid.
+
+
+
+Wednesday, July 22, 2020 10:00 AM PDT | 10:30 PM IST 
+
+Q. Hello, I was off for two days in a row in 50daysofudacity.Yesterday, I started to from D1. Is there anything left except this?? (Should i send pledge again for example?) (Shall i start from beginning of the lesson 1?) I could find not these answers, i want to be sure. Sorry if i missed. Thanks for the time. (edited)
+A.  Dalkılıç Hey! You need not take the pledge again, you can continue from Day 1 the way you have already begun and keep posting about the learning you had during the day, no need to re-start from Lesson 1,
+
+Q. There will be a phase 3 ? After Nanodegree course (edited)
+A.  There will be no Phase 3 Mihail! 
+
+Q. Hi ,  and  - great effort by you all so far! What if I did not apply for a Student Leader and there is perhaps a need for support to community and scholars in some channels, how do I eventually become a Student Leader after applications have been closed?
+A.  Divkovic Student Leader or not, you are always welcome to take initiatives and contribute in the community! 
+That said, there will be new roles opening up and we will be floating the form again.
+Also if you have any ideas for any particular channels, you can always coordinate with that channel’s leaders to collaborate on that idea!
+
+Q. what if there is nothing going on the group we made?
+A.  Goel
+Hey Ria! You can take it upon yourself to keep the group engaged. May be try getting suggestions from your peers in the study groups where you see a lot of activity? And also as your friends mentioned here, do try using a poll within your group.Also, please do not get discouraged, it is a huge community and the study group might take some time to get discovered! : )
+
+Q. Is there going to be an organizers group? Or how do we report about sg activities?
+A. ! So if you are a study group operating through a public channel (communicating in English) you need not report anything to us! We will be monitoring the groups.But if you are group functioning through a DM group or a public study group channel but using a native language to communicate then you can send fortnightly updates about the study group activities to the Community Team using the form given in the Study Groups Handbook!
+
+Q. Hi, where can I find the list of students in groups?
+A.  Hey!
+Whenever you go inside a channel, you will see a small circled ‘i’ at the top left corner of the channel.Click on it and then select, ‘Members’ from the options that appear in the right side bar , you will get to see a list of the students in a particular study group channel!
+
+Q. For quizzes which had the wrong answer and are reset, will we be required to complete them again for full completion marks?
+A.  Nie Tham Yes! To help you with situations like this, what you can do is reserve some time towards the end of the program (by completing the foundation course atleast a few days before the deadline) to review all the lessons and all the modules; quizzes, labs, videos etc inside each lesson.You guys can also make a list of all such modules and float it in the community to help each other review everything quickly!
+
+Q. there are many study groups and there will be lots of meeting how can this meeting effects our points?and If I attended meetings for more than group does it count
+A. Purpose of study groups is learning and helping others. The quality will affect your chances to next phase. You may attend as many groups as you desire, still previous counts.
+
+Q. is being a student leader make you achieve more ?
+A. they help in personal development but you as per scholarship its  a volunteer activity there are no brownie points
+A. Being a student leader will make help you learn a lot of things apart from making you spend more time in slack or help you in your course progress.
+The major takeaways for me personally is you get to:
+1) Collaborate and work with different people across geographies
+2) Learn more about slack and it's functionalities (Slack is a widely used tool in the industry)
+
+Q. So, do we have to avoid taging people on #50daysofudacity posts, right?
+A. I would say avoid mass-tagging. Don’t tag people you don’t know, or who don’t know you back
+
+Q.Does being in a student group give you more points for being selected for the next phase?
+A. It does give you more chances to participate actively in this community and take back much more from this experience!
+
+Q. There are many people with the same display name as mine, so I want to change it. But I joined the 50 day challenge using the previous one. So can I change my display name? And also, generally does changing my display name now affect my community participation?
+A.  We will definitely encourage you to change your display name to something that is more unique and helps your peers in identifying you!With regards to #50daysofudacity, kindly drop me a DM after you change your Display name! And don’t worry, it won’t affect your participation!
+
+Q. In one of the longer labs from lesson 5, my session timed out while it was running (after extending the session twice). I will of course try again. However if I time out again, can it be considered completed as I did watch the walkthrough?
+A. If you finished the lab exercise during the session, I guess only then it can be counted as completed. But can you also drop this question in #lab_help to know if any of your peers got through this?
+
+Q. Does the output of the Lab count towards our completion of the course?
+I.e. does a lab still count if I open the Azure portal outside the udacity environment for better accessibility?
+A. Labs are self-assessed as mentioned by your peers and yes you can open the labs outside the Udacity workspace. Just try to login in the lab inside the workspace before using it outside!
+
+Q. Just by being a member of any official study groups would fetch us higher community participation score. I mean to ask whether there would be any assessment by the Udacity team?
+A. Just joining a study group wouldn’t get anyone ahead! We are always looking for scholars who are active in the study groups they are a part of!
+And which is why we have also requested everyone to also consider their bandwidth when joining multiple study groups!
+
+Q. Just want to make sure because it seems there's confusion and it's the last day:
+    • Are we allowed to tag people when posting in #50daysofudacity ?
+    • Are we allowed to write about things other than Udacity?
+A. Yep, I don't it says anywhere that we should tag, but if you're tagging someone to get their attention, or crediting them with something, or talking about meetings that you had with them. Encouraging tagging is discouraged to avoid spamming.
+
+Q. If someone finishes everything in the foundation course, whats next? How can we know that we are going to be selected for the nano degree?
+A. Help others & build projects to go beyond course contents
+
+Q. I find that there are some topics that should be discussed very deeply. I think that important to figure out why we have to use this and how we have to do it. What are the advantages and disadvantages of such and such algorithms. How about it if there is an orientation on this point.
+A. You could explore ML courses on Udacity and do further research. Additionally, what you can also do is document such discussions when you have them and we will be more than happy to convey it to the team as a feedback!
+
+Q. Are you going to post a syllabus of the nanodegree?
+A. It is still under development and therefore we do not have a confirmation on the syllabus yet!
+
+Q. On the Student Leaders page it states "providing outstanding technical and moral support both informally and during organized events." Will the events idea be of student leaders or will be provided by your team ?
+A. Hey! We will just outline and help the Student Leaders in how they can maximise the effectiveness of the channel for the community! To be honest, majority of the awesome initiatives that we have seen were something that came from the student leaders or the community in general!
+
+Q If we find typos, grammar errors, or other
+such mistakes in the course, would you like for us to report those to you, and
+if so, where would you like us to report?
+A  You can report it directly on
+udacity using lecture's feedback option
+
+Q how to increase my chances of selection. Some
+secret trick
+A Participate, and only post useful information.Remember
+quality matters a lot. Also complete the course.
+
+Q How useful is the udacity nanodegree in
+getting an opportunity? Any success stories here? I'd be delighted to hear!
+A Time and again we have had various students to whom career opportunities
+opened up after they skilled up with Udacity and you can also read some of such
+amazing stories through the blog link shared above! 
+
+Q  Will
+there be any student challange, such as student story or visual challange?
+
+A yes you can check the calender for the dateshttps://sites.google.com/udacity.com/microsoftazurechallenge/calendar?authuser=0
+
+Q Why select 10000 people for scholarship..not
+less ?
+
+A  To
+increase the chances of having a vibrant community to help people learn the
+foundation conceptsThe top 3% (give or take)
+out of a group this size should be very impressive, indeed. Also, I don't know
+what the completion rate is on these scholarship courses, but the completion
+rate on online courses in general is pretty low. It's possible they needed 10k
+to be sure they'd have a large enough pool to make the Nanodegree scholarship
+worth offering.
+
+Q I just finished my masters and was related to
+machine learning, got an honor-roll and was off these days for this challenge.
+Will my project also count and where can I put it to make it count? Thanks
+A Hey Shweta! You have an excellent suggestion
+from your peer on how you can utilise it to contribute to the community but
+again it has to be based on the foundation course learnings!And if you have a
+project experience already, you can always use it to work upon more such
+projects individually or with a group here! Try looking into #project_ideas !
+
+Q Regarding #50daysofudacity What if one completes multiple
+lectures/modules in one day. And then just post updates about it on the channel
+for many days? Will it count towards the challenge? 
+A The whole idea is about maintaining a
+consistency and ‘REALLY’ taking it upon yourselves to get indulged
+in learning for atleast 30 minutes a day.And therefore even if you have
+completed multiple lectures in a day, consider it as that day’s work and try
+using the next day to learn something new. It is all about how much committed
+you are towards your self-growth! 
+
+Q  As
+the study groups started there are many groups with the same common members, so
+I think it`s better to merge themis there a way to do that and change the study
+group nameor should we just divide our activities among
+the groups and arrange this together؟
+A  If
+there are study group which you think are built around the same idea then
+please decide it among yourselves and once done reach out to me!But do consider
+taking opinion on the same from all your study group members. 
+
+Q During my #50daysofudacity I completed once my challenge for the
+day late in evening & had it posted past 12am midnight for the day. So,
+will this be counted as the contribution of that particular day or for the next
+day (but was posting for previous day & as the post was done few minutes
+later(10-15min) past 12am will this be considered as skip day?
+A Hey guys!We know that the pool of scholars here would
+have different study schedules and habits. So although we would recommend you
+to make that habit of posting once per day (in your timezone), it is ohk if
+some of your posts are posted in the channel with less hours of gap! Also,
+you can always set up the Slackbit to send you daily reminders to post in the channel
+everyday at a particular time.
+
+Q I am getting frustrated when I do my lab
+tasks. The side tutorial notes are not the same as the practical...  --- Thank you so much for the help! 
+A Yes. I agree there are a lot of errors in the
+instructions. But you can search your doubts in the lesson channel as someone
+else must have faced the same issue and might have posted corrections. You can
+use that. If you can't find anything ... Feel free to ask as it'll increase
+your slack interaction :) 
+
+Q Thank you for holding these AMA sessions as
+always! There was a thread last week where we noticed one of the quiz
+questions (in Lesson 4) had responses which were incorrect (different from what
+was taught in the course material). I submitted feedback during the
+submission of the response to this quiz. I believe there were others as
+well that experienced this. What happens in situations like
+these? Does Udacity address the quiz and how are we made aware if there
+are any updates made?
+A Hey Satish! As mentioned by your peers, you
+won’t receive an update as such if any changes are made but you will see the
+change (your Course Viewed Percentage will drop) and the module will not have
+the green tick mark. But let me get more information on this for you!
+
+Q There is no study group for Spain
+A There is one for all who are comfortable with
+Spanish!  #sg_spanish
+
+Thursday July 23 9:00 PM PDT | Friday July 24 9:30 AM IST 
+
+Q. Do community managers have any dedicated AMA sessions with student leaders?
+A. We will have a kick-off session!
+
+ Q. Will there be any new events be added other that study jams, story challenge etc.?
+A. Hey! We are always open to adding new events and initiatives to the calendar if it suits the community and the calendar has space for it!
+Otherwise too, any activities can be also initiated by the scholars themselves!
+ 
+Q. What is Study Smarts week and what is expected from students?
+A. Hey! So, during all this time when you are learning and growing together, what we also want is that you develop efficiency in the learning process while giving time to yourselves to recharge and have a peaceful mind! The study smarts week will be around these things! 
+ 
+Q. What if someone misses posting for a daily update in #50daysofudacity ?
+A. You can take a break once in two weeks provided you manage to complete the 50 days in time before the end of the course. For more than one day break you have to start again.
+
+Q. Is it quality or quantity of slack posts that count?
+A.    Quality over quantity always!
+
+Q. What if someone use other Udacity resources to go deeper in one specific topic that is mentioned in the course! Does it count for #50daysofudacity?
+A. Yes, anything related to the course counts!
+
+Q. In #50daysofudacity  challenge it is necessary to mention peers while posting? If anyone forget what happened?
+A. No it’s not necessary to tag anyone, you can just comment on someone's post to encourage them. In fact, tagging is not recommended.  It’s not at all mandatory you can encourage people with emojis and replying to their status with positive note. It’s all about motivating people in the channel to keep progressing in the challenge
+
+Q. Which posts gets in count the most?
+A. Hey! As your peers mentioned, it is always about Quality over Quantity for us.
+
+Q. In case someone is not qualified for the second session, can the person foot the bill for the second session?
+A. Yes one can do that!
+
+Q. Can we share the course's content online or is it forbidden until it becomes free course?
+A. You can share notes but not course content until it becomes publicly available.
+
+Q. In case someone is not qualified for the second session, can the person foot the bill for the second session?
+A. Yes, when it becomes available to the public
+ 
+Q. Do we need to active in all the study groups enrolled. What if someone joins a study group by mistake.
+A. We would always recommend that you join only the study groups for which you have space in your bandwidth, as this also helps the other members of the Study Group to make use of your presence. Now it is totally ok to have joined a study group but may be discover later that it doesn’t meet your needs, you can always leave the channel then! Just make sure the members are not relying on you for any tasks!
+ 
+Q. Can we continue posting in #50daysofudacity as D51, D52.. And so on?
+A. Of course! To build that as a habit is what we want from the challenge!
+ 
+Q. Hi, student leaders can initiate activities on their channels right?
+A. Yes and not only Student Leaders but other scholars in the Community can also plan and initiate activities! Now they can also have help from Student Leaders in executing that! 
+ 
+Q. I just realize this ML scholarship in 21 July (very late). To graduate in Phase 1, all we need to do is completed the ML course 1-8 in udacity?
+A. Hey! Welcome to the community. What will help you get started and get speed in the program is going through the Google Site of the Challenge thoroughly!
+ 
+Q. Will asking doubts in the channel be a selection criteria or only answering and clarifying would count?
+A. Asking relevant questions is as important for a community and also an individual to grow as is answering questions! So please do not hesitate in posting a question!
+ 
+Q. How do I teach a course at Udacity?
+A. Woah! Excited to have you on the team! To be an instructor with Udacity, you will have to apply for the role or be such that Udacity goes in hunting for you to help them with a program! Also, there are other opportunities just as  Saleh mentioned like being a mentor/reviewer with Udacity!
+ 
+Q. I'm curious and would like to hear Udacity’s perspective on this:  Why did Udacity choose this format of peer-to-peer learning?
+A. I would say that we have seen this as to be the most rewarding learning experience for the students! And while the scholarship has a limited no. of seats for Phase 2, this experience helps many more scholars participating in the community to take away something impactful from the program!
+ 
+Q. Will there be any sort of conclusion certificate to this course? Or is it only for the next one?
+A. Udacity will provide you with language you can use to highlight on your LinkedIn profile. This is a great way to highlight new development experience to potential employers and recruiters. But to be clear, there is no completion certificate offered for this initial challenge course that is for Phase 1. Rather, students only receive a verified Nanodegree credential (Graduation Certificate) after finishing up a Nanodegree program (in Phase 2).
+ 
+Q. I assume if MSFT sponsors 300 scholarships, they have 300 jobs for ML engineers? Or it’s for the greater good?
+A. Is for the greater good. During the orientation I remember we were not promised opportunities in just MSFT alone. We were told of the numerous opportunities out there too. The first part of this program highlighted that too. So it's for greater good.
+There is no job offer after phase 2. But we are getting so much experience which will of course help to get hired in other companies also.
+ 
+Q. Do we have any live sessions as part of phase 1?
+A. No, Community Managers will let you know.
+ 
+Q. Is there anyway you can track your records?
+A. If you are referring to your own posts, you can keep some important messages as preserved for a longer time if you Bookmark them!
+ 
+ Q. New google forms will be created if new student leaders are needed, or evaluation will be done on previous ones?
+A. New form will be floated!
+
+Q.  will there be a group consisting of all student leaders or can we form a private dm group and start discussing now itself.
+A. Hey! Yes, the student leaders will be added in a group where we will help you get started with your roles! But in the meantime, please use the time to connect with your your 3 other fellow channel leaders in a group DM to start planning on things!
+
+Q. Can we post multiple days at one time in #50daysofudacity ?
+A. Hey! So the challenge is about committing yourself to do the min learning of 30 min everyday and therefore we would like to see your daily updates!
+
+Q. Are there any incentives for students who completed this course early?
+A. More time to review and reinforce what you learnt! (edited)
+
+Q. Is there a handbook for rules for student leaders ? (edited)
+A. Hey Leo! You will get the needed resources by EOD today!
+
+Q. Is doing extra projects also being considered as a bonus for people for second round of selection?
+A. if you do projects outside, I think it gives you the chance to try to bring it back to slack and start a conversation around it, engage with others that's probably the important part.
+A. Nope, but you can explain the project to the community and help others to do it, it count as a community participation
+
+Q. What are the expectations from student leaders from Udacity’s perspective
+A.
+Hi! So what we really want the student leaders to do is be there for all the members in there channel and help in binding and building this community!
+
+Q. Will there be any need for extra leaders? Is there any chance for an (optional) project?  Ps:morning from Greece and thanks for the coyrse
+A. More roles will open up soon!
+
+Q. If we create a study group but it becomes inactive, does this get noticed/count against us in any way?
+A. Hey! It does not count against you but having a study group of your own is a really good opportunity to progress through the course smoothly , grow and make life-time connections while doing that and we really do not want you to miss on this!
+
+Q. How is the quality slack posts validated?
+A. That’s a secret!
+
+Q. How useful is doing the projects (and is there a channel for it)? I saw an initiative with a spreadsheet somewhere but lost it. I haven’t even started college yet and would probably need a lot of guidance to do a project (and they seem quite competitive). I would really love to apply my skills but I would like to know more about the time commitments, difficulty, and guidance available... 
+A. Hey Tanaya! Your peers have already summed it up for you here but to add it to it, please have a look at the #project_ideas channel, may be also drop in your questions regarding how can you get hands in a project, what can be a good starting point for you based on your experience etc. in this channel and get insights on them from your peers! 
+
+Q. Is it possible to keep a functional copy of the lab pipelines in our pc?
+A. To be honest, I am not sure about this. And I think your peers also have a divided opinion on this so let me check this with the team!
+
+Q. How many students are currently taking this course?
+A. 10k
+
+Q. What Time zone is been followed for counting 50days challenge? Eg If I forgot to post a update in 50days udacity challenge on 23rd July.  now  as per my time zone it's 24th July  . But according to PST its still 23rd .so if I post a update now will it be considered? 
+A. Hey Jinesh! You can follow your own timezone to decide the time of postings!
+
+Q. What is the course for the phase2?
+A. It will be a Machine Learning nanodegree program with Microsoft Azure but the specific syllabus is something we do not have yet!
+
+Q. Any plan for a technical webinar or AMA session by someone from Microsoft azure ML team?
+A. Hey! We are trying to have this..you might get some news on this sometime soon!
+
+Q. Do we have some Industry related people giving some webinars in related to ML planned for the challenge ?
+A. Always be on the lookout at #announcements for any information! Maybe something is coming soon!
+
+Q. How do we access ourselves to get through?
+A. Hey! If you are engaging with your peers, making quality contributions to the community and have a good pace in the course, please be assured that you are doing good.
+
+Q. Is it necessary to watch all the videos?
+Is it ok to leave some lab walkthroughs?
+Can you please confirm what is complete?
+A. So it not necessary to go through every second of the videos, what is important is to get the gist of them!
+
+Q. How useful is doing the projects (and is there a channel for it)? I saw an initiative with a spreadsheet somewhere but lost it. I havent even started college yet and would probably need a lot of guidance to do a project (and they seem quite competitive). I would really love to apply my skills but I would like to know more about the time commitments, difficulty, and guidance available... (edited) 
+A. Hey Tanaya! Your peers have already summed it up for you here but to add it to it, please have a look at the #project_ideas channel, may be also drop in your questions regarding how can you get hands in a project, what can be a good starting point for you based on your experience etc. in this channel and get insights on them from your peers! 
