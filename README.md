@@ -3,7 +3,7 @@ ChatBot development project for the Microsoft Azure Machine Learning Fellowship 
 
 Please head over to the markdown files directory to see the step-by-step implementation process! 
 This is the project team responsible for implementing the AMA ChatBot:
-- Anderson Soares Furtado Oliveira :flag-br: https://www.linkedin.com/in/andersonfurtado/
+- Anderson Soares Furtado Oliveira :Brazil: https://www.linkedin.com/in/andersonfurtado/
 - Lucas de Andrade :Brazil: https://www.linkedin.com/in/lucasdeandrade/
 - Bennett Lambert :USA: https://www.linkedin.com/in/bennett-lambert-76607058/
 - Claudia Everett :USA: https://www.linkedin.com/in/claudia-b-29318237/
