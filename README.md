@@ -10,7 +10,7 @@ This is the project team responsible for implementing the AMA ChatBot:
 - Karina Condeixa :Germany: https://www.linkedin.com/in/karinacondeixa/
 - Busra Bnuratum :Germany:
 - Abita Ann Augustine :India: https://www.linkedin.com/in/abita-ann-augustine/
-- Aris Huynh
+- Aris Huynh :Vietnam: https://www.linkedin.com/in/hvtuan/
 - Peace Peters :Nigeria: https://www.linkedin.com/in/%F0%9F%8D%B5peace-peters-7068133b/
 - Garima :Australia: https://www.linkedin.com/in/garima-s-b2746861/
 - Ruthu S Sanketh  :India: https://www.linkedin.com/in/ruthu-s-sanketh/
