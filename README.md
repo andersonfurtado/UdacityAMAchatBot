@@ -8,7 +8,7 @@ This is the project team responsible for implementing the AMA ChatBot:
 - Bennett Lambert :USA: https://www.linkedin.com/in/bennett-lambert-76607058/
 - Claudia Everett :USA: https://www.linkedin.com/in/claudia-b-29318237/
 - Karina Condeixa :Germany: https://www.linkedin.com/in/karinacondeixa/
-- Busra Bnuratum :Germany:
+- Busra Bnuratum :Germany: https://www.linkedin.com/in/busra-nur-atum-392603b4/
 - Abita Ann Augustine :India: https://www.linkedin.com/in/abita-ann-augustine/
 - Aris Huynh :Vietnam: https://www.linkedin.com/in/hvtuan/
 - Peace Peters :Nigeria: https://www.linkedin.com/in/%F0%9F%8D%B5peace-peters-7068133b/
