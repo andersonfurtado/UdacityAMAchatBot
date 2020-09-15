@@ -14,3 +14,4 @@ This is the project team responsible for implementing the AMA ChatBot:
 - Peace Peters :Nigeria: https://www.linkedin.com/in/%F0%9F%8D%B5peace-peters-7068133b/
 - Garima :Australia: https://www.linkedin.com/in/garima-s-b2746861/
 - Ruthu S Sanketh  :India: https://www.linkedin.com/in/ruthu-s-sanketh/
+- Rohan Smith :USA: https://www.linkedin.com/in/rohan-smith-84bb17188/
