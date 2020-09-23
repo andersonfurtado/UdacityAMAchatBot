@@ -7,7 +7,13 @@ The initial scope of the project was for the chatbot to be able to answer questi
 
 The solution was implemented using Azure Cloud, especially the cognitive services of Bot, Luis and QnA Maker Framework. 
 
-The project was implemented in 5 Sprints: 1) QnA Maker. In the 5th Sprint, the project suffered an amplification of the scope with the arrival of new collaborators who developed complementary knowledge bases on Concetiso and Machine Learning Resources and, also, on the lessons of the Course of Introduction to Machine Learning in Azure. 
+The project was implemented in 4 Sprints: 
+Sprint 1: QnA knowledge base from AMA 
+Session Sprint 2: Language Understanding (LUIS) 
+Sprint 3: Build and Publish a bot 
+Sprint 4: Creation and cleaning of Knowledge Bases: AMA Session, Lessons from the Introduction to ML course in Azure; General knowledge and resources about ML.
+
+In the 4th Sprint, the project suffered an amplification of the scope with the arrival of new collaborators who developed complementary knowledge bases on Concetiso and Machine Learning Resources and, also, on the lessons of the Course of Introduction to Machine Learning in Azure. 
 
 The bot was published in 3 channels: email brendlakbot@outlook.com, Facebook Messenger and Telegram App.
 
